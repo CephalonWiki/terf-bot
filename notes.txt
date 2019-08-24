@@ -1,0 +1,12 @@
+Features:
+
+- Negative valence on TIMs
+- Neutral valence on TIFs
+- Fixation on trans people
+
+
+Ideas:
+
+- CERF bot:  TERF comments with the "trans" and "cis" roles reversed
+- TERFometer:  Assigns a percentage to a comment indicating how TERFy it is
+- 
