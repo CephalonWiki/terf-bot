@@ -6,7 +6,6 @@ import RedditBot
 
 import random
 import re
-import nltk
 
 trans_keywords = "|".join(["[Gg]ender[ -][Ii]dentity",
                      "[Tt]rans[ -]?(gender|[Ww]om[ae]n|[Mm][ae]n|[Ss]?exual)",
@@ -19,7 +18,7 @@ class TERFBot(RedditBot.RedditBot):
     def __init__(self, name="terf-bot", subreddit="all"):
 
         # create Reddit instance
-        with open("../../data/credentials.txt", 'r') as login_credentials:
+        with open("../data/credentials.txt", 'r') as login_credentials:
             credentials = login_credentials.readline().split(',')
             reddit_instance = praw.Reddit(client_id=credentials[0], client_secret=credentials[1],
                                           user_agent=credentials[2] + ":%s".format(random.random()),
@@ -32,7 +31,18 @@ class TERFBot(RedditBot.RedditBot):
         super().set_mechanic("1st_transit_of_venus")
 
         self.keywords = trans_keywords + slur_keywords
+        self.data = pandas.read_csv("comments.csv")
 
+    def extract_features(self, c):
+        features = {"comment": c,
+                "body": c.body,
+                "trans_match": re.search(self.keywords, c.body),
+                "subreddit": c.subreddit,
+                "post": c.subreddit.title,
+                "link": c.subreddit.permalink}
+
+        self.data = self.data.append(features)
+        return features
 
     # clean up the nested ifs yuck
     def should_respond(self, comment):
@@ -54,13 +64,12 @@ class TERFBot(RedditBot.RedditBot):
             try:
                 # check if we should respond
                 if self.should_respond(comment):
-                    print("##### COMMENT FOUND #####")
-                    print("Match:  ", re.search(self.keywords, comment.body).group(0))
-                    print("Link:  ", comment.subreddit.permalink)
-                    print("Subreddit:  ", comment.subreddit)
-                    print("Post:  ", comment.submission.title)
-                    print("Text:  ", comment.body)
+                    features = self.extract_features(comment)
+                    pprint(features)
+            except KeyboardInterrupt:
+                self.data.to_csv("comments.csv")
             except Exception:
+                self.data.to_csv("comments.csv")
                 continue
 
 if __name__ == "main":
