@@ -56,6 +56,7 @@ class TERFBot(RedditBot.RedditBot):
                 if self.should_respond(comment):
                     print("##### COMMENT FOUND #####")
                     print("Match:  ", re.search(self.keywords, comment.body).group(0))
+                    print("Link:  ", comment.subreddit.permalink)
                     print("Subreddit:  ", comment.subreddit)
                     print("Post:  ", comment.submission.title)
                     print("Text:  ", comment.body)
