@@ -5,7 +5,13 @@ Features:
 - Fixation on trans people
 
 
-Ideas:
+Ideas on scrapping:
+- Initial dataset will contain comments that match keywords
+    - Should remove false positives that mistakenly match for generic stem like "trans"
+- Extrapolation:
+    - Parent comments
+    - User comments
+    - Subreddit comments
 
 - CERF bot:  TERF comments with the "trans" and "cis" roles reversed
 - TERFometer:  Assigns a percentage to a comment indicating how TERFy it is

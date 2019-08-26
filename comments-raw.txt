@@ -1,0 +1,1992 @@
+ {'body': 'Your post has been removed because it is not formatted properly.Tag '
+         'images with the gender of the subjects [M] for male, [F] for female, '
+         '[CD] for cross dressers, [TW] for trans women, [TM] for trans men or '
+         'simply [F] and [M] if you prefer. Correct formats can be found '
+         '[here](https://www.reddit.com/r/BDSMGW/wiki/index).\n'
+         '\n'
+         '*I am a bot, and this action was performed automatically. Please '
+         '[contact the moderators of this '
+         'subreddit](/message/compose/?to=/r/BDSMGW) if you have any questions '
+         'or concerns.*',
+ 'comment': "Comment(id='ey120v3')",
+ 'link': 'reddit.com/r/BDSMGW/comments/cv0i5d/i_love_red_marks_on_my_ass_f/ey120v3/',
+ 'post': 'A place to post your own kinky pictures',
+ 'subreddit': "Subreddit(display_name='BDSMGW')",
+ 'trans_match': "<_sre.SRE_Match object; span=(171, 182), match='trans women'>"},
+{'body': 'Trans women are real women.',
+ 'comment': "Comment(id='ey126lm')",
+ 'link': 'reddit.com/r/Drama/comments/cuvbqb/white_women_fuck_dogs/ey126lm/',
+ 'post': 'the known anti-Semitic hate subreddit r/drama',
+ 'subreddit': "Subreddit(display_name='Drama')",
+ 'trans_match': "<_sre.SRE_Match object; span=(0, 11), match='Trans women'>"},
+{'body': "They're pretty close to equal. In [this 2015 "
+         'survey](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf) '
+         'of trans people in the United States, 29% of respondents were trans '
+         'men and 33% were trans women. You may be surprised to find that the '
+         'largest group, at 35% of the respondents, was nonbinary people.',
+ 'comment': "Comment(id='ey128g4')",
+ 'link': 'reddit.com/r/asktransgender/comments/cv0119/are_there_equal_numbers_of_trans_men_and_trans/ey128g4/',
+ 'post': 'asktransgender: questions and comments',
+ 'subreddit': "Subreddit(display_name='asktransgender')",
+ 'trans_match': "<_sre.SRE_Match object; span=(199, 208), match='trans men'>"},
+{'body': '"Transgenderism" is the trans equivalent of "the gay agenda"',
+ 'comment': "Comment(id='ey12acv')",
+ 'link': 'reddit.com/r/ForwardsFromKlandma/comments/cuvcij/ben_has_completely_lost_it/ey12acv/',
+ 'post': "When they're not Grandma, but also not quite Hitler",
+ 'subreddit': "Subreddit(display_name='ForwardsFromKlandma')",
+ 'trans_match': "<_sre.SRE_Match object; span=(1, 12), match='Transgender'>"},
+{'body': 'Oh know some libtarded faggot used the wrong your while arguing '
+         'online what a fucking loser',
+ 'comment': "Comment(id='ey12dek')",
+ 'link': 'reddit.com/r/teenagers/comments/cuzxh0/holy_shit/ey12dek/',
+ 'post': 'r/teenagers',
+ 'subreddit': "Subreddit(display_name='teenagers')",
+ 'trans_match': "<_sre.SRE_Match object; span=(23, 29), match='faggot'>"},
+{'body': "It isn't limited to political subreddits either I got a first and "
+         'only warning in a gaming subreddit for saying nigger. Why did I say '
+         'it? I was talking about how I was an admin on a popular TF2 server '
+         'and we had to keep banning people for calling each other nigger and '
+         'faggot. When I asked the mods what in the hell their response was '
+         'something along the lines of "Context doesn\'t matter! Consider '
+         'yourself warned."  \n'
+         '\n'
+         'The right does this behavior as well occasionally (I know of for '
+         'sure one location based subreddit run by a right wing version of '
+         'this) but it is a lot more rare. \n'
+         '\n'
+         'Apparently being the equivalent of an unpaid internet janitor '
+         'attracts people with a massive power complex who should never be in '
+         'power who would have known.',
+ 'comment': "Comment(id='ey12gcn')",
+ 'link': 'reddit.com/r/TrueReddit/comments/cufylq/reddit_cofounder_alexis_ohanian_we_need_more/ey12gcn/',
+ 'post': 'Reddit as it is meant to be',
+ 'subreddit': "Subreddit(display_name='TrueReddit')",
+ 'trans_match': "<_sre.SRE_Match object; span=(269, 275), match='faggot'>"},
+{'body': "* don't split your 4tags with punctuation (e.g. '4t/CD/sis'). If "
+         "you're open to more than one gender, please use '4**A**'. If you're "
+         "looking for a couple, try '4**MF**'. "
+         '[More...](http://www.reddit.com/r/RandomActsOfBlowJob/wiki/public/tagging/V2 '
+         '"If you\'re open to anyone but have a preference you may use 4t/A\'; '
+         "if you're particularly open to transgender, you can use '4t/T' (or "
+         "'/TF', '/TM', '/M2F' or '/F2M' as appropriate) or if you'll also "
+         'consider couples, use \'4t/MF.").\n'
+         '\n'
+         '____\n'
+         '\n'
+         '*I am a bot, and this action was performed automatically. Please '
+         '[contact the moderators of this '
+         'subreddit](/message/compose/?to=/r/RandomActsOfBlowJob) if you have '
+         'any questions or concerns.*',
+ 'comment': "Comment(id='ey12gd6')",
+ 'link': 'reddit.com/r/RandomActsOfBlowJob/comments/cv0k70/27_m4tcdsis_tampa/ey12gd6/',
+ 'post': 'RAOB. Matching mouths and members',
+ 'subreddit': "Subreddit(display_name='RandomActsOfBlowJob')",
+ 'trans_match': "<_sre.SRE_Match object; span=(345, 356), match='transgender'>"},
+{'body': 'Syrians had a 3 months extension. The transgender woman could choose '
+         'to go back to regime lands before she waited to be sent back\n'
+         '\n'
+         'Yes it is not worth arguing with you',
+ 'comment': "Comment(id='ey12hhl')",
+ 'link': 'reddit.com/r/syriancivilwar/comments/cuwqgx/turkey_deports_syrian_transgender_woman_to_idlib/ey12hhl/',
+ 'post': "Syria's Civil War (2011—ongoing)",
+ 'subreddit': "Subreddit(display_name='syriancivilwar')",
+ 'trans_match': "<_sre.SRE_Match object; span=(38, 49), match='transgender'>"},
+{'body': "It isn't, at least not now and not in the foreseeable future.\n"
+         '\n'
+         'There is a distinction between *sex* (as in, biological organs, and '
+         'XX / XY chromosomes) and *gender* (which is the sociological / '
+         'psychological aspect).\n'
+         '\n'
+         "Transgender people are just that: their gender doesn't align with "
+         'their biological sex.',
+ 'comment': "Comment(id='ey12ize')",
+ 'link': 'reddit.com/r/syriancivilwar/comments/cuwqgx/turkey_deports_syrian_transgender_woman_to_idlib/ey12ize/',
+ 'post': "Syria's Civil War (2011—ongoing)",
+ 'subreddit': "Subreddit(display_name='syriancivilwar')",
+ 'trans_match': "<_sre.SRE_Match object; span=(218, 229), match='Transgender'>"},
+{'body': 'In what way is this forcing a gender identity on anyone?\n'
+         '\n'
+         'It’s not *my* character. It’s a character in the Borderlands '
+         'universe. I am not forced to play as them. I can choose another '
+         'character that corresponds to the gender of my choice if that is '
+         'something that matters to me.\n'
+         '\n'
+         'Furthermore, misgendering a character, learning that you’ve done so '
+         'and then not doing it again is fine. If you intentionally misgender '
+         'someone as a joke or a meme though... you’re the asshole!',
+ 'comment': "Comment(id='ey1354m')",
+ 'link': 'reddit.com/r/Gamingcirclejerk/comments/cv0ecs/dont_identify_your_character_how_you_want_others/ey1354m/',
+ 'post': 'Gaming Circlejerk - Home of CD Projekt Red',
+ 'subreddit': "Subreddit(display_name='Gamingcirclejerk')",
+ 'trans_match': "<_sre.SRE_Match object; span=(30, 45), match='gender identity'>"},
+{'body': 'ur a faggot',
+ 'comment': "Comment(id='ey135k7')",
+ 'link': 'reddit.com/r/teenagers/comments/cuhdin/despite_being_13_percent_of_the_population/ey135k7/',
+ 'post': 'r/teenagers',
+ 'subreddit': "Subreddit(display_name='teenagers')",
+ 'trans_match': "<_sre.SRE_Match object; span=(5, 11), match='faggot'>"},
+{'body': "Bottom surgery is still in development and to be honest I've been "
+         'told a lot can go wrong with it, because of this and other reasons a '
+         'lot of trans men opt out of it but if your bottom dysphoria is that '
+         "bad then it is a possibility. Personally, I don't want bottom "
+         'surgery since there are alternatives and it could go wrong. Another '
+         "thing I've heard is that you either end up with a penis that's small "
+         "or doesn't have much sensitivity. But again I haven't had it so I do "
+         "not know. Ask a doctor or people who have had it and they'll tell "
+         "you if it's best or not",
+ 'comment': "Comment(id='ey1365e')",
+ 'link': 'reddit.com/r/ftm/comments/cv01wr/i_want_to_transition_but_there_are_a_few_things/ey1365e/',
+ 'post': 'A place for the guys.',
+ 'subreddit': "Subreddit(display_name='ftm')",
+ 'trans_match': "<_sre.SRE_Match object; span=(142, 151), match='trans men'>"},
+{'body': 'hot topic sa office ang sogie bill. it started with me talking to a '
+         'cute mom of 3 about our stand on the issue. Im okay with it, shes '
+         'against it. Next thing i know, im talking to 14 peeps that are not '
+         'for it. and i am overwhelmed by the fact that i was alone on the pro '
+         "side.  It's okay tho. Things they worried about are:\n"
+         '\n'
+         '&#x200B;\n'
+         '\n'
+         '* can sue anyone as long as an lgbt feels discriminated e.g. schools '
+         'that dont allow a trans to dress what he/she wants, or church that '
+         'doesnt allow one to be a clergy etc\n'
+         '* and because of that institutions need to adjust\n'
+         '* makes gay marriage legal (next)\n'
+         '* transexuals are still men, why use women cr\n'
+         '\n'
+         '&#x200B;\n'
+         '\n'
+         "Besides some comments that its a trash bill cos its Hontiveros',(i "
+         'tell em it MDS\', and i get "oh"), or since im straight and has a '
+         'long hair, i can just go to womens cr and peep (lol), its all good.',
+ 'comment': "Comment(id='ey13ycq')",
+ 'link': 'reddit.com/r/Philippines/comments/cuzoob/daily_random_discussion_aug_25_2019/ey13ycq/',
+ 'post': 'Philippines - all about the Philippines',
+ 'subreddit': "Subreddit(display_name='Philippines')",
+ 'trans_match': "<_sre.SRE_Match object; span=(592, 602), match='transexual'>"},
+{'body': 'As a Libertarian, what if I identify as a teenage girl?',
+ 'comment': "Comment(id='ey142by')",
+ 'link': 'reddit.com/r/SubredditDrama/comments/cus8d4/raskteengirls_mods_bans_boys_from_answering/ey142by/',
+ 'post': 'Popcorn tastes good.',
+ 'subreddit': "Subreddit(display_name='SubredditDrama')",
+ 'trans_match': "None},
+{'body': "* 'Mfm' isn't valid. "
+         '[More...](http://www.reddit.com/r/RandomActsOfBlowJob/wiki/public/tagging/V2 '
+         '"Exceptions: to show a preference, '
+         "'{{match-title#firsttag-3}}4{{match-title#firsttag-4}}/A' (anyone); "
+         "'{{match-title#firsttag-3}}4{{match-title#firsttag-4}}/T' (or '/TF' "
+         "& '/TM' as appropriate) for transgender, or "
+         '{{match-title#firsttag-3}}4{{match-title#firsttag-4}}/MF for '
+         'couples.") \n'
+         '\n'
+         '____\n'
+         '\n'
+         '*I am a bot, and this action was performed automatically. Please '
+         '[contact the moderators of this '
+         'subreddit](/message/compose/?to=/r/RandomActsOfBlowJob) if you have '
+         'any questions or concerns.*',
+ 'comment': "Comment(id='ey14a8z')",
+ 'link': 'reddit.com/r/RandomActsOfBlowJob/comments/cv0snd/mfm_18_bi_curious_guy_want_to_know_about_gay/ey14a8z/',
+ 'post': 'RAOB. Matching mouths and members',
+ 'subreddit': "Subreddit(display_name='RandomActsOfBlowJob')",
+ 'trans_match': "<_sre.SRE_Match object; span=(297, 308), match='transgender'>"},
+{'body': 'Also less than 1%, but not the same "less than 1%" (though there is '
+         'likely some overlap).  If transgender correlated strongly with '
+         "intersex, there'd be far less of a culture war over it, I think.",
+ 'comment': "Comment(id='ey14b3i')",
+ 'link': 'reddit.com/r/TheMotte/comments/csclze/culture_war_roundup_for_the_week_of_august_19_2019/ey14b3i/',
+ 'post': 'The Motte',
+ 'subreddit': "Subreddit(display_name='TheMotte')",
+ 'trans_match': "<_sre.SRE_Match object; span=(94, 105), match='transgender'>"},
+{'body': "it's like a magic trick, i just say the word nonbinary and presto "
+         "somebody appears who's got a problem with me lmao\n"
+         '\n'
+         'I am not a female bro but I support all female bros',
+ 'comment': "Comment(id='ey14fd0')",
+ 'link': 'reddit.com/r/gainit/comments/cuo4pt/can_women_post_here_or_is_it_male_only/ey14fd0/',
+ 'post': "We're all gonna make it",
+ 'subreddit': "Subreddit(display_name='gainit')",
+ 'trans_match': "<_sre.SRE_Match object; span=(45, 54), match='nonbinary'>"},
+{'body': 'You’d be surprised how tolerant the south is, I lived in Georgia for '
+         '4 years and everyone was supportive of people when they came out, '
+         'now I live in the “progressive” and “tolerant” state of Rhode Island '
+         'and have heard people call each other faggots and shit more times '
+         'than I can count.',
+ 'comment': "Comment(id='ey14n20')",
+ 'link': 'reddit.com/r/teenagers/comments/cv0rxm/kid_at_my_school_came_out_did_not_end_well/ey14n20/',
+ 'post': 'r/teenagers',
+ 'subreddit': "Subreddit(display_name='teenagers')",
+ 'trans_match': "<_sre.SRE_Match object; span=(242, 248), match='faggot'>"},
+{'body': 'Does he, faggot?\n'
+         '\n'
+         'Have you ever had an original thought or do you just like to '
+         'regurgitate cute little Reddit^TM phrases?',
+ 'comment': "Comment(id='ey14wl1')",
+ 'link': 'reddit.com/r/4chan/comments/cux0g8/fitizen_asks_about_pushups/ey14wl1/',
+ 'post': 'Cheat Engine',
+ 'subreddit': "Subreddit(display_name='4chan')",
+ 'trans_match': "<_sre.SRE_Match object; span=(9, 15), match='faggot'>"},
+{'body': 'This post was about antifa being downtown Portland.  Not proud boys. '
+         'Had they done the same thing they would be faggots too, just like '
+         'you you fascist dick riding fuck',
+ 'comment': "Comment(id='ey14yv5')",
+ 'link': 'reddit.com/r/bestofworldstar/comments/csc8g9/not_letting_go_protestors_in_portland_tussle_over/ey14yv5/',
+ 'post': 'The Best Of World Star Hip-Hop',
+ 'subreddit': "Subreddit(display_name='bestofworldstar')",
+ 'trans_match': "<_sre.SRE_Match object; span=(112, 118), match='faggot'>"},
+{'body': 'I identify as a box',
+ 'comment': "Comment(id='ey1525y')",
+ 'link': 'reddit.com/r/gmu/comments/cv0czz/being_a_vegetarian_at_mason_is_already_becoming_a/ey1525y/',
+ 'post': 'George Mason University Subreddit',
+ 'subreddit': "Subreddit(display_name='gmu')",
+ 'trans_match': "None},
+{'body': 'I definitely get that "HRT as last resort" vibe. I see from both '
+         'perspectives. On the transgender-pride perspective, "Why hold back '
+         "hormones if it's so obvious they are the only obvious healthy "
+         'conclusion?" but I also see the other side, people reading the book '
+         'who are wary and just now learning about this stuff, and Yarhouse '
+         'saying while they may be a last resort, there are very few [if any] '
+         "desirable alternatives. But I'm only half through the book, and you "
+         'seem to have encountered him at a speaking thing, so you may know '
+         'more about his perspective. So far I see it as a great resource for '
+         'allies/friends/family of transgender persons, not the person '
+         'them-self. And lastly I have not encoutnered anything against HRT as '
+         "a solution... it's actually laughable he goes through the hoops to "
+         'arrive at the conclusion "If [all these other things] don\'t work, '
+         'HRT is the next non-invasive procedure." I do find it funny how he '
+         'pairs gender-surgeries with HRT; IMHO surgeries are worlds more '
+         'invasive to be even comparable to HRT. Also, ... who the hell would '
+         'get a gender surgery without HRT to back it up? (I say that because '
+         'sometimes he talks in a way that might be perceived as either/or, '
+         'but I again might be mistaken)',
+ 'comment': "Comment(id='ey1572j')",
+ 'link': 'reddit.com/r/asktransgender/comments/cujpkh/a_divine_intervention_by_god/ey1572j/',
+ 'post': 'asktransgender: questions and comments',
+ 'subreddit': "Subreddit(display_name='asktransgender')",
+ 'trans_match': "<_sre.SRE_Match object; span=(86, 97), match='transgender'>"},
+{'body': 'I identify as soy \n\nFUCK TRUMP! FUCK WHITE PEOPLE!',
+ 'comment': "Comment(id='ey15car')",
+ 'link': 'reddit.com/r/gmu/comments/cv0czz/being_a_vegetarian_at_mason_is_already_becoming_a/ey15car/',
+ 'post': 'George Mason University Subreddit',
+ 'subreddit': "Subreddit(display_name='gmu')",
+ 'trans_match': "None},
+{'body': 'The truth is, you cannot possibly know that. Maybe that’s the case '
+         'or maybe it isn’t. Further information is required in order to '
+         'constitute that. It’s possible that she pledged extra asylum because '
+         'of her identity and got denied ,and on other hand it’s plausible '
+         'that she was deported because of her legal status. \n'
+         '\n'
+         'But considering the world wide discrimination and extreme-violence '
+         '(even in progressive countries like Sweden) towards transgendered '
+         'people it isn’t so unlikely. But the truth is, further information '
+         'is requested to constitute the motivation behind her deportation '
+         'which isn’t available.',
+ 'comment': "Comment(id='ey15d6r')",
+ 'link': 'reddit.com/r/syriancivilwar/comments/cuwqgx/turkey_deports_syrian_transgender_woman_to_idlib/ey15d6r/',
+ 'post': "Syria's Civil War (2011—ongoing)",
+ 'subreddit': "Subreddit(display_name='syriancivilwar')",
+ 'trans_match': "<_sre.SRE_Match object; span=(436, 447), match='transgender'>"},
+{'body': 'Somehow I get the feeling that no matter how much i try and explain '
+         "it as best I can, I'll be painted into some corner with semantics "
+         "and rhetoric, which is something I'm all too familiar with in this "
+         'continuous sphere of debate.\n'
+         '\n'
+         'For the last time I will say, transgender is merely overly expensive '
+         'cosmetic surgery, a man will never be a woman, a woman will never be '
+         "a man, there is no genderfluidity, you either are or you aren't. "
+         "That's just how I see it.",
+ 'comment': "Comment(id='ey15gl4')",
+ 'link': 'reddit.com/r/unpopularopinion/comments/c5tr4n/lgbtq_megathread/ey15gl4/',
+ 'post': 'For Your Opinions That Are Unpopular ',
+ 'subreddit': "Subreddit(display_name='unpopularopinion')",
+ 'trans_match': "<_sre.SRE_Match object; span=(261, 272), match='transgender'>"},
+{'body': 'Nah dr.conway and sybil are real people. \n'
+         '\n'
+         "It's likely that that program 'YAVA' logs people inside those "
+         'folders you see fletcher go through, so furniture, people etc... are '
+         'logged in those folders. \n'
+         '\n'
+         'So one can assume that since the program keeps crashing over and '
+         'over again some stuff glitches out, corrupts and is deleted along '
+         'the way, that could explain why the furniture in the living room '
+         'suddenly disappeared or how dr.conway is able to teleport from place '
+         'to place, because his file is moving all over the place. \n'
+         '\n'
+         "another thing I noticed is that the only three MTF's that were "
+         'killed happened to be the ones that were messing with the code or '
+         'checking it out or whatever. \n'
+         '\n'
+         "O'neil was with fletcher when he said 'cardoon' which could have "
+         'been the reason why they were both specifically targeted at the end '
+         'and west dying trying to read that code on the wall.',
+ 'comment': "Comment(id='ey15o6u')",
+ 'link': 'reddit.com/r/SCP/comments/cuwiwh/scp_dollhouse/ey15o6u/',
+ 'post': 'The SCP Foundation',
+ 'subreddit': "Subreddit(display_name='SCP')",
+ 'trans_match': "<_sre.SRE_Match object; span=(572, 575), match='MTF'>"},
+{'body': 'Girl love your makeup. You look super cute. (Chloe mtf )',
+ 'comment': "Comment(id='ey15opg')",
+ 'link': 'reddit.com/r/MTFSelfieTrain/comments/cv0288/hi_hi_28_months_hrt/ey15opg/',
+ 'post': 'MTF Selfie Train',
+ 'subreddit': "Subreddit(display_name='MTFSelfieTrain')",
+ 'trans_match': "<_sre.SRE_Match object; span=(51, 54), match='mtf'>"},
+{'body': 'faggot\n\nhi gary',
+ 'comment': "Comment(id='ey15q2r')",
+ 'link': 'reddit.com/r/wsgy/comments/cuunpt/one_of_the_ladies_at_work_absolutely_does_not/ey15q2r/',
+ 'post': 'FUCK OFF',
+ 'subreddit': "Subreddit(display_name='wsgy')",
+ 'trans_match': "<_sre.SRE_Match object; span=(0, 6), match='faggot'>"},
+{'body': 'Using the word "problematic" in that context is a problem. I think '
+         'they do need to seriously think about surgery and actually have it '
+         'in order to be a legitimately trans person. Do they deserve any harm '
+         'that might come to them, trans or not? No. "Non-binary" - just '
+         "choose one. It's not that difficult.\n"
+         '\n'
+         'Nobody uses "performative" in that way, either, mainly because '
+         'nobody will know what that means. You should have stopped at "fake."',
+ 'comment': "Comment(id='ey16ev8')",
+ 'link': 'reddit.com/r/TwoXChromosomes/comments/cuoq66/i_always_try_my_best_to_compliment_other_women/ey16ev8/',
+ 'post': 'You are the community. You have all the power of the internet to '
+         'mold it..',
+ 'subreddit': "Subreddit(display_name='TwoXChromosomes')",
+ 'trans_match': "<_sre.SRE_Match object; span=(247, 257), match='Non-binary'>"},
+{'body': 'Some of those MTF vaginas are terrible  and border line medical '
+         'malpractice honestly (I’m assuming not all of them)',
+ 'comment': "Comment(id='ey16hw1')",
+ 'link': 'reddit.com/r/starterpacks/comments/cuwcvs/antilgbt_reddit_post_starter_pack/ey16hw1/',
+ 'post': 'Starterpacks',
+ 'subreddit': "Subreddit(display_name='starterpacks')",
+ 'trans_match': "<_sre.SRE_Match object; span=(14, 17), match='MTF'>"},
+{'body': 'Looooool what a dumb faggot',
+ 'comment': "Comment(id='ey16kih')",
+ 'link': 'reddit.com/r/TigerBelly/comments/cuyk8r/erik_griffin_is_a_bitch/ey16kih/',
+ 'post': 'Tiger Belly',
+ 'subreddit': "Subreddit(display_name='TigerBelly')",
+ 'trans_match': "<_sre.SRE_Match object; span=(21, 27), match='faggot'>"},
+{'body': 'Transgender people who are supported by friends and family before '
+         'during and after transitioning have the same levels of depression '
+         "and suicide as the general population. It's only trans people who "
+         'are shunned for transitioning that retain high suicide rates. How '
+         'about you let people be, and stop acting as if you have a say in '
+         "what gender and sex people identify as. Or maybe you'd like it if "
+         'the government decided to mark you down as the opposite sex one day, '
+         'and refused to change it.',
+ 'comment': "Comment(id='ey16lxf')",
+ 'link': 'reddit.com/r/Shuffles_Deck/comments/cui16i/damn_white_people_and_their_shuffles_cards_not/ey16lxf/',
+ 'post': 'Shuffles Deck',
+ 'subreddit': "Subreddit(display_name='Shuffles_Deck')",
+ 'trans_match': "<_sre.SRE_Match object; span=(0, 11), match='Transgender'>"},
+{'body': 'In Canada, Jonathan Yaniv is the direct result of this system: an '
+         'appropriator who is consciously using the legal protections granted '
+         'to him virtue of his self-ID to get into positions where he can act '
+         'upon his sexual fantasies -- all behind a legal smokescreen.\n'
+         '\n'
+         "I hate the self-ID movement with a passion. It's absolute lunacy, it "
+         'benefits only the trenders and fetishists and hurts the actual '
+         "transsexuals (including those who advocate for it), and it's a core "
+         'position of mainstream transactivism. "If you say you\'re trans, '
+         "you're trans! Fuck the corrupt doctors and bully your endos into "
+         'giving you 10mg of E every day."\n'
+         '\n'
+         "You'll get called truscum for claiming otherwise.\n"
+         '\n'
+         "I don't know if this is limited to the online trans community, "
+         "because I don't really associate with the trans community IRL. But "
+         "god, it's not only annoying but *outright dangerous* to allow anyone "
+         'to claim "transhood". With every country that brings self-ID to the '
+         'letter of the law, there will be Jonathan Yanivs using it to abuse '
+         'and sexually harass other people. There will be people with long and '
+         'storied histories of pedophilia and sexual abuse, who the police '
+         "will not touch because they're trans. (it is *mind-numbing* how JY "
+         'has not been arrested yet -- oh yeah, he *did* get arrested for '
+         'brandishing a taser on stream but was mysteriously released just '
+         'about 5 seconds later)\n'
+         '\n'
+         'End it all. Self-ID is dangerous and should never have even become a '
+         'possibility of discussion. I believe we have a self-ID law here in '
+         "California that's been in effect for a few months. And I'm just "
+         'waiting to feel the fallout of it.',
+ 'comment': "Comment(id='ey175lg')",
+ 'link': 'reddit.com/r/truscum/comments/cuvc4s/who_else_doesnt_want_the_legal_gender_change/ey175lg/',
+ 'post': '/r/truscum: Because being trans means something',
+ 'subreddit': "Subreddit(display_name='truscum')",
+ 'trans_match': "<_sre.SRE_Match object; span=(396, 407), match='transsexual'>"},
+{'body': 'That’s helephobic my gender is attack helicopter and you can’t '
+         'change that',
+ 'comment': "Comment(id='ey175z6')",
+ 'link': 'reddit.com/r/teenagers/comments/cv0y97/theres_only_two_genders/ey175z6/',
+ 'post': 'r/teenagers',
+ 'subreddit': "Subreddit(display_name='teenagers')",
+ 'trans_match': "<_sre.SRE_Match object; span=(31, 48), match='attack helicopter'>"},
+{'body': 'Okay, so here we go.  Most of this is all LGBT stuff and not '
+         "necessarily trans stuff but it's what I've got.\n"
+         '\n'
+         '**Resources:**\n'
+         '\n'
+         "In addition to the stuff I've already posted, here's what I've got:\n"
+         '\n'
+         'I really like the YouTubers [Angel and '
+         'Nicole](https://www.youtube.com/channel/UC6LR2z3l3MnHD1Sr7rbTUbg)and '
+         'their organization '
+         "[TheOneFrontier](https://www.theonefrontier.com/resources).  They've "
+         'got a lot of vlogs about LGBT stuff and their website has a bunch '
+         "more resources that they like.  Someday they'd like to build an LGBT "
+         'Christian Youth Retreat.\n'
+         '\n'
+         "[Here's an article about trans stuff from a Catholic "
+         'perspective](https://www.uscatholic.org/articles/201805/transgender-and-catholic-31392).\n'
+         '\n'
+         'I know I mentioned '
+         '[GayChurch.org](https://www.gaychurch.org/homosexuality-and-the-bible/the-bible-christianity-and-homosexuality/) '
+         "above but they really do have a ton of articles and stuff.  I'd "
+         'highly recommend spending time just wondering around their site.\n'
+         '\n'
+         '[HopeRemains](http://hoperemainsonline.com/) is a site with '
+         'Catholic-focused resources.\n'
+         '\n'
+         '[Jessica '
+         'Kellgren-Fozard](https://www.youtube.com/playlist?list=PLhADVL2AiGX9WxOo6w6QbkRdCBX97Bkgh) '
+         'is a deaf British lesbian YouTuber who is Quaker and has several '
+         'videos devoted to what Quakerism is and how it handles LGBT people.  '
+         'IIRC, she talks about how they were one of the first Christian '
+         'Denominations to affirm LGBT people.\n'
+         '\n'
+         '[This is a tumblr that has a lot of good '
+         'stuff](https://queerchristianaffirmations.tumblr.com/faq).  Note '
+         'especially the chat groups for LGBT Christians at the bottom of that '
+         'page.\n'
+         '\n'
+         "Also if you're on Tumblr I recommend following "
+         "[QueerlyChristian](https://queerlychristian.tumblr.com/).  It's a "
+         'blog that provides a lot of support and perspectives on Queer '
+         'Christian stuff and they run a podcast about transgender christian '
+         "stuff (Blessed be the Binary Breakers).  (side note: I've not "
+         'listened to the podcast so while I recommend the tumblr, I cannot '
+         "comment on the quality of the podcast but if it's as good as their "
+         "tumblr, it'll be good).\n"
+         '\n'
+         '**My Beliefs**\n'
+         '\n'
+         'Now that the more official stuff is out of the way, here is how I '
+         'personally reconciled LGBT people and Christianity.  I use the word '
+         '"Affirming" a lot and it\'s important to note the difference between '
+         'someone "Accepting" LGBT people and "Affirming" them (and don\'t '
+         'even get me started on "tolerance").  "Acceptance" is what you do at '
+         'the end of grieving.  You *accept* a loss.  You *accept* the death '
+         'of a loved one.  Someone who is accepting is someone who says "Well, '
+         "I still don't like it but since I realize there's nothing I can do "
+         'about it, I suppose I can welcome you into my home and be friendly '
+         'with you and whatnot.  But really, if given the opportunity, I would '
+         'change the situation."  Someone who is *Affirming* is someone who '
+         'celebrates your identity.  Someone who loves you *because* of who '
+         'you are instead of in spite of it.  An affirming parent might say '
+         '"Oh you\'re gay?  Alright, do you have a girlfriend?" (or boyfriend '
+         "if you're a dude).\n"
+         '\n'
+         'Also, when I mention "Christian Doctrine" I mean "Christian '
+         'Doctrine" as I understand it.  There are thousands of different '
+         'types of Christianity each with doctrine just a little different '
+         'than all the others.  It should also be noted that once someone has '
+         'made up their mind about something, it can take a long time to '
+         'change it if they ever change it.  Anyone with Christian loved ones '
+         'should not expect to shout theology at them and expect them to '
+         "rationally and instantly decide that they're a-okay with the gay (or "
+         'trans).\n'
+         '\n'
+         'Backstory: I was Christian long before I realized I was trans.  I '
+         'had not been raised in the church, but had a general understanding '
+         'of what Christianity was because my parents took us to Christmas Eve '
+         'services with my grandparents and when I was 15 made the decision to '
+         'be baptized and come to Christ.  The church I attended was (and as '
+         'far as I know still is) *extremely* conservative.  While they were '
+         'technically non-denominational, their views lined up very closely '
+         'with Southern Baptist and Evangelical beliefs.  This is the '
+         'environment that my faith was born into and like a sponge it '
+         "absorbed *all of it*.  I'm ashamed at the views I used to have and "
+         'worse be vocal about.\n'
+         '\n'
+         'During college I started to loosen up and slowly drift left.  I used '
+         'to say I was far-right but ten years ago "far-right" meant something '
+         "different than it does now.  Lets put it this way:  I don't know "
+         "that I *would* have voted for Trump but I also don't know that I "
+         "*wouldn't* have and that scares me.  Luckily, that young man doesn't "
+         'vote any more (lol can you imagine if he could see the lesbian he '
+         "would someday become).  (I'm not going to go into detail about how "
+         "and why I stopped being conservative b/c it's a long story that's "
+         'not super important right now).\n'
+         '\n'
+         'I actually became LGBT affirming before I realized I was LGBT '
+         'myself.  I was pretty against same-sex marriage until one day when I '
+         'was driving to church and I heard a program on the radio where a guy '
+         "would host a radio show as Jesus.  It isn't as weird as it sounds, "
+         'it was mostly a place where people would call in for prayers and the '
+         'show made it clear that it was for artistic reasons and the host in '
+         'no way actually believed he was the risen Christ.\n'
+         '\n'
+         'Anyway, his argument was basically that there was no reason that '
+         "Christians shouldn't support secular same-sex marriage rights if "
+         "their only argument was that God wouldn't bless those marriages.  He "
+         'asked the audience if they believed that marriages between atheists, '
+         'Muslims, Buddhists, etc were blessed and if not, they either needed '
+         'to campaign against those too or not worry about same-sex marriage.  '
+         "From there I slowly started to realize that God probably doesn't "
+         "condemn homosexuality.  There's a lot of stuff online about how the "
+         'places in Leviticus and Romans that damn homosexual behavior are '
+         'probably mistranslated (a better translation would probably be '
+         "pedophilia) but you can look those up on your own (they're in the "
+         "resources I've listed).  For me, Galatians 3:28 overrides any "
+         'condemnation of gay love:\n'
+         '\n'
+         '>There is neither Jew nor Gentile, neither slave nor free, nor is '
+         'there male and female, for you are all one in Christ Jesus.\n'
+         '\n'
+         'Becoming gay-affirming primed me to become trans-affirming.  At that '
+         "point I was like, yeah okay, God probably doesn't have any problem "
+         "with it so I won't either.  I didn't ever get any more specific than "
+         'that until my egg cracked and I started wondering how and why God '
+         'would make me or anyone else trans if only to condemn the idea of '
+         'people transitioning.\n'
+         '\n'
+         'Christian doctrine teaches that the universe was once perfect but '
+         'sin entered the world when Adam and Eve disobeyed God and ate from '
+         "the Tree of Knowledge of Good and Evil (I'm not a creationist but we "
+         'can talk about how evolution and whatnot fit with the doctrine of '
+         'Original Sin some other time).  At that point, sin entered the '
+         "universe and corrupted *everything.*  It didn't just corrupt our "
+         'relationship with God.  It seeped into our bones and into our '
+         'genes.  It changed the way we interact with the ground we walk on.  '
+         'When Christians talk about "Sin" in a theological sense, it isn\'t '
+         'just a verb ("sin" is not just something someone does that is bad).  '
+         'Sin-the-noun I think would be best described as an evil version of '
+         'the Force from Star Wars.  It exists all around us and we wade '
+         'through it daily.\n'
+         '\n'
+         'My belief is that God created our souls and that sin corrupted our '
+         "bodies once we were conceived.  I don't know if God creates souls "
+         'gendered or not.  Maybe God creates male, female, and other gendered '
+         "souls and then sin mutates the body into something the soul doesn't "
+         "fit into and thus you get dysphoria.  Maybe God doesn't create "
+         "gendered souls and dysphoria comes from somewhere else.  I don't "
+         "know.  There's a lot I don't know.\n"
+         '\n'
+         'But I know one thing: God loves us.  Every one of us.  Any Christian '
+         'who disagrees is letting their own biases get in the way of that.\n'
+         '\n'
+         'Go in peace. <3',
+ 'comment': "Comment(id='ey176cy')",
+ 'link': 'reddit.com/r/asktransgender/comments/cujpkh/a_divine_intervention_by_god/ey176cy/',
+ 'post': 'asktransgender: questions and comments',
+ 'subreddit': "Subreddit(display_name='asktransgender')",
+ 'trans_match': "<_sre.SRE_Match object; span=(661, 672), match='transgender'>"},
+{'body': "So somehow banning guns works but banning abortion doesn't?\n"
+         '\n'
+         'Transgender people should be allowed to carry loaded machine guns '
+         "into the women's bathroom.\n"
+         '\n'
+         'Banning guns and abortions prevents gun and abortion homicides, but '
+         'the gun homicides become knife and truck homicides.',
+ 'comment': "Comment(id='ey1791f')",
+ 'link': 'reddit.com/r/Abortiondebate/comments/cuxjdc/i_came_up_with_a_rebuttal_to_flaws_in_the/ey1791f/',
+ 'post': 'Debating Abortion',
+ 'subreddit': "Subreddit(display_name='Abortiondebate')",
+ 'trans_match': "<_sre.SRE_Match object; span=(61, 72), match='Transgender'>"},
+{'body': 'Coming up: blocking of all Christian websites when a future '
+         '"transgender rights of primary school children" bill gets '
+         'introduced.\n'
+         '\n'
+         'You *all* know it is true.',
+ 'comment': "Comment(id='ey17991')",
+ 'link': 'reddit.com/r/australia/comments/cv0na1/telcos_will_get_the_power_to_block_hate_websites/ey17991/',
+ 'post': 'Australia',
+ 'subreddit': "Subreddit(display_name='australia')",
+ 'trans_match': "<_sre.SRE_Match object; span=(61, 72), match='transgender'>"},
+{'body': 'Not everyone is educated about transgender issues, despite your '
+         'thinking that they do. Some people need a better place than google '
+         'to get information about transgender issues- and I’m willing to say '
+         'the best resource would be a transgender person, someone who’s been '
+         'through a transition. Some people are afraid to ask transgender '
+         'people in their lives for fear of sounding dumb- it’s a little more '
+         'anonymous on the internet and I’m happy to answer any questions so '
+         'long as they’re not disrespectful.\n'
+         '\n'
+         'It’s kind of rude of you to assume that transgender people '
+         'transition for attention. What makes you think trans people want '
+         'attention brought to themselves when there’s so much violence '
+         'against us? What makes you think someone will walk into the bathroom '
+         'and say “hey everyone! I’m transgender! I’m peeing in here!” Because '
+         'obviously that’s not how it works. It’s actually pretty fucking '
+         'shitty to be transgender in this day and age, and people like you '
+         'are a part of that. I’m not demanding people ask me anything, I’m '
+         'simply opening up the opportunity in case there’s anyone who has '
+         'questions. \n'
+         '\n'
+         'Do you get joy out of telling people down? You literally could’ve '
+         'just scrolled past this post if you didn’t have any questions. It’s '
+         'not that hard.',
+ 'comment': "Comment(id='ey17c8o')",
+ 'link': 'reddit.com/r/AMA/comments/cuy1ht/im_a_17_year_old_trans_man_whos_about_3_years_on/ey17c8o/',
+ 'post': 'Ask Me Anything',
+ 'subreddit': "Subreddit(display_name='AMA')",
+ 'trans_match': "<_sre.SRE_Match object; span=(31, 42), match='transgender'>"},
+{'body': "[Here's my full list of resources and trans related "
+         'beliefs](https://www.reddit.com/r/asktransgender/comments/cujpkh/a_divine_intervention_by_god/ey176cy/).',
+ 'comment': "Comment(id='ey17ept')",
+ 'link': 'reddit.com/r/asktransgender/comments/cujpkh/a_divine_intervention_by_god/ey17ept/',
+ 'post': 'asktransgender: questions and comments',
+ 'subreddit': "Subreddit(display_name='asktransgender')",
+ 'trans_match': "<_sre.SRE_Match object; span=(89, 100), match='transgender'>"},
+{'body': '> 6 Days ago: New Trump Admin Rule Would Let Religious Employers '
+         'Fire LGBT, Jewish Employees, Critics Warn\n'
+         '\n'
+         "The rule is about the freedom of religious employers. It's not about "
+         'taking rights away from anyone.\n'
+         '\n'
+         'From [the '
+         'proposal](https://s3.amazonaws.com/public-inspection.federalregister.gov/2019-17472.pdf?utm_medium=email&utm_campaign=pi+subscription+mailing+list&utm_source=federalregister.gov) '
+         'itself:\n'
+         '> this proposal is intended to make clear that the Executive Order '
+         '11246 religious exemption covers not just churches but employers '
+         'that are organized for a religious purpose, hold themselves out to '
+         'the public as carrying out a religious purpose, and engage in '
+         'exercise of religion consistent with, and in furtherance of, a '
+         'religious purpose.\n'
+         '\n'
+         'This proposal is meant to allow religious organizations to hire '
+         "based on their practices. It's not like the manager at McDonald's "
+         "who doesn't like gay people is going to be able to fire people just "
+         'like that.\n'
+         '\n'
+         '> Not just trying, succeeding. Started by banning trans people from '
+         'the military\n'
+         '\n'
+         'Trans people were banned from the military because of the high rate '
+         'of depression, suicide, and the fact that hormone therapy can cause '
+         'unpredictable mood changes and other health problems.\n'
+         '\n'
+         'As someone who just recently went through the process of joining the '
+         'military, I can tell you they have barred people for much more '
+         'trivial reasons than that.\n'
+         '\n'
+         '> undoing healthcare regulations that protected lgbt people from '
+         'discrimination, rolling back obama era protections for trans '
+         'students, trying to define transgender out of existence, pressuring '
+         'independent non-profit youth organization 4-H to withdraw their '
+         'pro-LGBT policy, filling courts with anti-LGBT, anti-abortion '
+         'judges, filling his cabinet with anti-lgbt people, fired everyone in '
+         'the HIV/AIDS council, list goes on.\n'
+         '\n'
+         'Your bias is showing with this list. You refuse to learn how or why '
+         'these are implemented and instead opt to misunderstand them in the '
+         "most blatant and judgmental ways. Doctors can't refuse to fix a "
+         'broken arm just because the patient is gay. However, a doctor can '
+         'refuse to perform an abortion because they feel performing it would '
+         'be immoral. '
+         '[Source](https://www.hhs.gov/sites/default/files/final-conscience-rule.pdf). '
+         'The Obama Admin guidance on Title IX was changed because of sexual '
+         'assault, not trans students. Also, being called by the wrong pronoun '
+         'is not a violation of your rights (I would know; when I was 10 I was '
+         'called a girl a few times myself). Trump "defining transgender out '
+         'of existence"? Lol. That proposal simply refers to the word "sex", '
+         'not "gender". It would legally define "sex" as the same thing it is '
+         'usually defined as in the dictionary- the biological state of being '
+         'male or female. "Transgender" would not be redefined out of '
+         'existence, because the word "gender" is not being redefined. '
+         '[Source](https://www.google.com/url?sa=i&source=web&cd=&ved=2ahUKEwjvjfKIvZzkAhUjw1kKHeYNA8EQzPwBegQIARAB&url=https%3A%2F%2Fwww.nytimes.com%2F2018%2F10%2F21%2Fus%2Fpolitics%2Ftransgender-trump-administration-sex-definition.html&psig=AOvVaw0sc_x7zB41nkin4Vo7Qh5H&ust=1566769423845714). '
+         'The 4-H thing? Saying Trump did that is beyond a stretch. A '
+         'chief-of-staff of the USDA (which is in charge of 4-H) under Sonny '
+         'Perdue, Heidi Green, who is no longer employed with the USDA, who '
+         "wasn't even appointed by Trump, requested a piece of 4-H's new "
+         'guidance regarding LGBT members be removed. How this equates to '
+         '"Trump rolling back on LGBT rights" is beyond me. [Source '
+         '1](https://www.google.com/url?sa=i&source=web&cd=&ved=2ahUKEwjDipu_zJzkAhXqUt8KHRX5CJUQzPwBegQIARAB&url=https%3A%2F%2Fwww.desmoinesregister.com%2Fstory%2Fnews%2Finvestigations%2F2018%2F11%2F18%2F4-h-transgender-lgbt-iowa-john-paul-chaisson-cardenas-iowa-state-university-civil-rights%2F1572199002%2F&psig=AOvVaw1o6QlAsLB0M11ZWLgoYDw7&ust=1566773564296707), '
+         '[Source 2](https://en.m.wikipedia.org/wiki/4-H), [Source '
+         '3](https://www.usda.gov/our-agency/about-usda).\n'
+         '\n'
+         '> filling courts with anti-LGBT, anti-abortion judges, filling his '
+         'cabinet with anti-lgbt people, fired everyone in the HIV/AIDS '
+         'council, list goes on.\n'
+         '\n'
+         '"Other people are homophobic, so Trump must be too". Lol. First of '
+         "all, that's bullshit and you know it. Second, you do know you have "
+         'to have some kind of proof for these claims? I mean until now I '
+         "thought that's what your bold and incorrect claims were about. "
+         'Anyways, what does abortion have to do with LGBT rights? Lmao, you '
+         'know only heterosexual couples can get pregnant, right? Or are you '
+         "just another lefty who doesn't care about science?\n"
+         '\n'
+         'Also, HIV and AIDS effect straight people, too. And the HIV/AIDS '
+         'council is back to running again. '
+         '[Source](https://www.fiercehealthcare.com/practices/presidential-advisory-council-hiv-aids-back-business-more-than-a-year-after-members-were).\n'
+         '\n'
+         "And does the list go on? I don't think it does. At the end there you "
+         'really started to grasp at straws.\n'
+         '\n'
+         '> Ted Cruz was introduced at his rally by a "kill the gays" pastor.\n'
+         '\n'
+         'Ted Cruz isn\'t "the majority of right wingers". Also, again, "Ted '
+         'Cruz is homophobic because some other dude is homophobic". I don\'t '
+         'buy it.\n'
+         '\n'
+         '> The christian taliban is a part of the trump admin.\n'
+         '\n'
+         "Last I checked the Trump Administration wasn't trying to institute "
+         "theocracy. Also the vast majority of Christians don't condone "
+         'terrorism in any form, let alone "in the name of God", unlike Islam, '
+         'which also says homosexuality should be punished (along with '
+         "condoning pedophilia). Trump doesn't even go to church regularly, so "
+         "the notion that he's some sort of Christian extremist is just "
+         'bogus.\n'
+         '\n'
+         "> Israel doesn't even have inter-religious marriage, let alone gay "
+         'marriage. It has an official state religion, sharia courts, laws '
+         'based on religion, religious schools funded by the state, and a '
+         'racist colonial policy of subsidizing illegal settlements on '
+         'occupied land, justified by religious lunacy.\n'
+         '\n'
+         "Israel doesn't perform same-sex marriages, but it recognizes gay "
+         'marriages performed elsewhere and condones homosexuality in '
+         'virtually every other issue. '
+         '[Source](https://en.m.wikipedia.org/wiki/LGBT_rights_in_Israel). '
+         'Israel also respects freedom of religion and freedom of speech. They '
+         "certainly aren't a perfect country, but if you would prefer the "
+         'Palestine Authority, who literally persecutes people for being '
+         'homosexual, that makes *you* the homophobe, not me. '
+         '[Source](https://www.google.com/url?sa=i&source=web&cd=&ved=2ahUKEwiDi7fH2pzkAhWsV98KHUMWAYwQzPwBegQIARAB&url=https%3A%2F%2Fwww.jpost.com%2FMiddle-East%2FPA-bans-LGBT-activities-in-West-Bank-598980&psig=AOvVaw1m6JRGgyTud0fPfem2iIw-&ust=1566777339628884).\n'
+         '\n'
+         '> But I *would* discriminate. I absolutely would not trust a '
+         'creationist doctor for example. Of course religious fundamentalists '
+         'do not belong in positions of power, public or private.\n'
+         '\n'
+         'And there you go. "I don\'t like this group of people so they should '
+         'be barred from power". Good thing those old religious people '
+         'instituted democracy so you can vote for who you want in power!\n'
+         '\n'
+         '> Make all healthcare including abortion free at the point of use '
+         'and available everywhere, then we can talk about reducing the # of '
+         'weeks by a little.\n'
+         '\n'
+         'How about we make killing babies illegal instead then talk about '
+         'giving a few weeks before it has a consciousness?',
+ 'comment': "Comment(id='ey17luq')",
+ 'link': 'reddit.com/r/PoliticalVideo/comments/ctvu8r/trump_calls_himself_the_chosen_one_during_erratic/ey17luq/',
+ 'post': 'Political Videos',
+ 'subreddit': "Subreddit(display_name='PoliticalVideo')",
+ 'trans_match': "<_sre.SRE_Match object; span=(1547, 1558), match='transgender'>"},
+{'body': 'Small discords. Susan\'s place is too big and too "old guard."\n'
+         '\n'
+         'While it may not be much, I would stray away from using '
+         '"transgender\'s" like that. It\'s an adjective, like "transgender '
+         'person," not a noun. "He\'s a transgender person," not, "he\'s a '
+         'transgender." Oof. Just for the future! <3',
+ 'comment': "Comment(id='ey17nqo')",
+ 'link': 'reddit.com/r/TransSpace/comments/cv0zzu/transgender_online_chat_sites/ey17nqo/',
+ 'post': 'All Trans* Inclusive Space',
+ 'subreddit': "Subreddit(display_name='TransSpace')",
+ 'trans_match': "<_sre.SRE_Match object; span=(120, 131), match='transgender'>"},
+{'body': 'I saw a comic where this man was saying "SUCK MY DICK, DYKE" and a '
+         'mob was going to kill him, and then a trans woman was saying "SUCK '
+         'MY LADY DICK, TERF," and the same mob was going on about how brave '
+         'and stunning the trans woman was.',
+ 'comment': "Comment(id='ey17oe0')",
+ 'link': 'reddit.com/r/GenderCritical/comments/cuwuq3/my_preference_is_okay/ey17oe0/',
+ 'post': 'Gender Critical Feminism',
+ 'subreddit': "Subreddit(display_name='GenderCritical')",
+ 'trans_match': "<_sre.SRE_Match object; span=(105, 116), match='trans woman'>"},
+{'body': "Wow, congratulations. One trans woman is indeed bad! You've done it, "
+         "you've successfully destroyed the libs. /s",
+ 'comment': "Comment(id='ey17q4e')",
+ 'link': 'reddit.com/r/TIHI/comments/cuufb9/thanks_i_hate_awful_antitrans_boomer_comics/ey17q4e/',
+ 'post': 'Thanks, I hate it',
+ 'subreddit': "Subreddit(display_name='TIHI')",
+ 'trans_match': "<_sre.SRE_Match object; span=(26, 37), match='trans woman'>"},
+{'body': 'He did...he just became a transracial transgender...named Hillary.  '
+         'Who knew?',
+ 'comment': "Comment(id='ey17qm3')",
+ 'link': 'reddit.com/r/facepalm/comments/cuv2ld/wow/ey17qm3/',
+ 'post': 'A gallery of inexplicable stupidity',
+ 'subreddit': "Subreddit(display_name='facepalm')",
+ 'trans_match': "<_sre.SRE_Match object; span=(38, 49), match='transgender'>"},
+{'body': 'Speaking of "it is not a costume," I saw this transtrender '
+         '"non-binary" male who was wearing one of those leotard things '
+         'wrestlers wear and had makeup on + a beard + long fancy nails and '
+         'was screaming "THIS IS NOT A COSTUME! THIS IS WHO I AM!" This was a '
+         'YouTube video.',
+ 'comment': "Comment(id='ey17xf4')",
+ 'link': 'reddit.com/r/GenderCritical/comments/cux828/im_leaving_all_nongcfriendly_womens_groups/ey17xf4/',
+ 'post': 'Gender Critical Feminism',
+ 'subreddit': "Subreddit(display_name='GenderCritical')",
+ 'trans_match': "<_sre.SRE_Match object; span=(60, 70), match='non-binary'>"},
+{'body': 'Could you elaborate on what exactly would be the difference between '
+         'the mental based and the physical based versions, and how you think '
+         'they should be treated differently?\n'
+         '\n'
+         'As far as I know most of my dysphoria focused on my body, that I '
+         'wanted to be physically male and was very uncomfortable with being '
+         'bio female. I was bothered by being seen as a woman socially, but '
+         'that was always secondary. I liked being feminine and usually '
+         'brushed off "misgendering" etc, although it annoyed me. Sure I '
+         'wanted to be socially recognised as a man, but it was ultimately far '
+         'less important to me than having a male body or at least appear as '
+         'close to it as medically possible. I wanted a flat chest, narrow '
+         'hips, deep voice, facial hair, body hair, male genitals, etc. I '
+         'never confused masculinity for maleness or femininity for femaleness '
+         'as I grew up with a very masculine mother and slightly effeminate '
+         'father, and my being a lesbian and my denial of it actually had very '
+         'little to do with why I thought I was trans and ended up living as '
+         'an effeminate gay/bi trans man. \n'
+         '\n'
+         'My point is all that was driving me to transition was my hatred of '
+         'my femaleness and my wish to appear physically male. I did end up '
+         'medically and socially transitioning to a trans man, then '
+         'detransitioning and re-identifying back to a woman. The treatment I '
+         'needed all along was therapy for my past traumas, which was the '
+         'source of my dysphoria. Alas, transitioning was not what I needed.\n'
+         '\n'
+         'I have on occasion read body-focused dysphoria described as "sex '
+         'dysphoria" but it\'s very commonly accompanied by social dysphoria '
+         'also sometimes referred to as "gender dysphoria", cause they like '
+         'overlap really a lot and tend to exacerbate each other. Even I who '
+         'was at core sex dysphoric and not truly happy in living as a man, '
+         'got gender/social dysphoria over time which was then exacerbated by '
+         "my sex dysphoria. They were very intertwined. I've rarely ever heard "
+         "of people who have/had sex dysphoria without thinking they're trans "
+         "at all or had no amount of social dysphoria. Although I think that's "
+         "surely possible, I don't think it's common at all. However it seems "
+         'much more common to have social dysphoria but no sex dysphoria '
+         'accompanying it. \n'
+         '\n'
+         'So, in my highly uneducated opinion on this complicated topic... I '
+         "don't think they can be truly separated for a lot of, if not most, "
+         'dysphoric people. The brain and the body are connected. '
+         'Psycho-therapy can treat body/sex dysphoria just like it can treat '
+         "gender/social dysphoria, based on my own experience. However I'm not "
+         'against people choosing to medically transition as a way to '
+         "alleviate their dysphoria. Although I'm not a fan of it and it "
+         "clenches my gut, I won't butt in on anyone's personal choices about "
+         "their own bodies. I'd gain nothing from doing so.\n"
+         '\n'
+         "I don't think trying to separate sex dysphoria from social dysphoria "
+         "entirely would even be possible. They're two sides of the same coin, "
+         'and I think that coin of any dysphoria related to sex, gender, '
+         'gender roles, etc, is a complex psychological condition with a lot '
+         'of different possible causes; ranging from peer pressure to hormone '
+         "imbalances and abuse, and much more. Additionally, I think how it's "
+         'best to be treated depends on what caused it for each individual '
+         'person who has it.',
+ 'comment': "Comment(id='ey17zak')",
+ 'link': 'reddit.com/r/detrans/comments/cuy8hs/does_this_sound_like_a_possible_solution/ey17zak/',
+ 'post': 'r/detrans | Detransition Subreddit',
+ 'subreddit': "Subreddit(display_name='detrans')",
+ 'trans_match': "<_sre.SRE_Match object; span=(1053, 1062), match='trans man'>"},
+{'body': 'Thank you. I did read that thread you made a while back about this '
+         'being not being a transgender story. What do you make of his comment '
+         'in 6.2?\n'
+         '\n'
+         'And what are your thoughts on the excommunication?',
+ 'comment': "Comment(id='ey182nd')",
+ 'link': 'reddit.com/r/TheBlackList/comments/cutlo7/lets_talk_about_that_wagoneer/ey182nd/',
+ 'post': 'The Blacklist - The NBC TV Show',
+ 'subreddit': "Subreddit(display_name='TheBlackList')",
+ 'trans_match': "<_sre.SRE_Match object; span=(85, 96), match='transgender'>"}, ^CTraceback (most recent call last):
+  File "<input>", line 1, in <module>
+  File "C:\Users\Thea\PycharmProjects\Trans Sentiment Analysis\terf-bot\terf_bot.py", line 63, in scan
+    for comment in scan_stream:
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\praw\models\util.py", line 190, in stream_generator
+    time.sleep(exponential_counter.counter())
+KeyboardInterrupt
+>>> terf.data.to_csv("comments.csv", index = False)
+>>> terf.data.to_csv("../terf-bot/comments.csv", index = False)
+>>> reload(terf_bot)
+<module 'terf_bot' from 'C:\\Users\\Thea\\PycharmProjects\\Trans Sentiment Analysis\\terf-bot\\terf_bot.py'>
+>>> terf = terf_bot.TERFBot()
+>>> terf.scan()
+^CTraceback (most recent call last):
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+  File "C:\Users\Thea\PycharmProjects\Trans Sentiment Analysis\terf-bot\terf_bot.py", line 63, in scan
+    for comment in scan_stream:
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\praw\models\util.py", line 168, in stream_generator
+    limit=limit, params={'before': before_fullname}))):
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\prawcore\rate_limit.py", line 36, in call
+    response = request_function(*args, **kwargs)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\prawcore\requestor.py", line 47, in request
+    return self._http.request(*args, timeout=TIMEOUT, **kwargs)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\requests\sessions.py", line 512, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\requests\sessions.py", line 622, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\requests\adapters.py", line 445, in send
+    timeout=timeout
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\urllib3\connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\site-packages\urllib3\connectionpool.py", line 383, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\ssl.py", line 1002, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\ssl.py", line 865, in read
+    return self._sslobj.read(len, buffer)
+  File "C:\Users\Thea\AppData\Local\Programs\Python\Python36\lib\ssl.py", line 625, in read
+    v = self._sslobj.read(len, buffer)
+KeyboardInterrupt
+>>> reload(terf_bot)
+<module 'terf_bot' from 'C:\\Users\\Thea\\PycharmProjects\\Trans Sentiment Analysis\\terf-bot\\terf_bot.py'>
+>>> terf = terf_bot.TERFBot()
+>>> terf.scan()
+{'body': 'Your post has been removed since it does not follow the proper '
+         'tagging guidelines. Please note that tags are case sensitive. You '
+         'can review our  rules '
+         '[here](https://www.reddit.com/r/NYr4r/wiki/rules).  Please post '
+         'again using a proper tag. (i.e. [M4F], [F4M], [MtF4FtM], [M4T], '
+         '[MF4FMFFF]).  *I am a bot, and this action was performed '
+         'automatically. Please [contact the moderators of this '
+         'subreddit](/message/compose/?to=/r/NYr4r) if you have any questions '
+         'or concerns.*',
+ 'comment': "Comment(id='ey18e25')",
+ 'link': 'https://reddit.com/r/NYr4r/comments/cv1djd/25m_big_balls_hosting_in_midtown_grandcentral/ey18e25/',
+ 'post': '[25M] big balls hosting in #midtown #grandcentral',
+ 'subreddit': "Subreddit(display_name='NYr4r')",
+ 'trans_match': "<_sre.SRE_Match object; span=(262, 265), match='MtF'>"},
+{'body': 'First off, all your sources are absolute garbage. You picked the '
+         "most biased sources you could find.   >Well, let's take a look. In "
+         'Canada, if someone uses the wrong gender pronoun they can face a '
+         'fine.   This is misleading as this only applies to people who work '
+         'for the government. So the only thing this does is ban harassment by '
+         "government employees.  >There's currently legislation in some states "
+         'that puts health care workers in prison if they refuse to use '
+         'certain gender pronouns.   This is literally just banning '
+         'discrimination based on gender identity and HIV status in the '
+         'medical field. No one has been "put in prison" since the bill became '
+         'law and no one will.   >Some schools want to introduce "gender '
+         'identity" classes to kids.  Teaching kids about gender and '
+         "acceptance isn't a bad thing.   >State funded colleges like Virginia "
+         'tech now force transgender ideology onto students at orientation.  '
+         'What does this even mean? Your source is just a right-wing hit piece '
+         'by The Federalist that is just about how mad the author is that his '
+         'tax dollars are going to a place that respects trans people. Asking '
+         'students what pronouns they want to use isn\'t "forcing transgender '
+         'ideology". It is just being respectful so everyone feels '
+         "comfortable. If you can't handle that, then maybe you're the "
+         'snowflake.  >I can go on, but I think anyone reading gets the '
+         'picture. These are all things Libertarians should be against, by the '
+         "way.  Good thing I'm not a right-wing libertarian. But you're just a "
+         'transphobe who lives in a bubble.',
+ 'comment': "Comment(id='ey18jq7')",
+ 'link': 'https://reddit.com/r/Libertarian/comments/cux4bu/protect_yourself_because_no_one_else_will_the/ey18jq7/',
+ 'post': 'Protect yourself because no one else will. The LGBTQ community knows '
+         'this better then anyone.',
+ 'subreddit': "Subreddit(display_name='Libertarian')",
+ 'trans_match': "<_sre.SRE_Match object; span=(546, 561), match='gender identity'>"},
+{'body': 'We can barely accept transgender people right now.   '
+         'Androids/cyborgs/intelligent AI/body mods is gonna be a shitshow.',
+ 'comment': "Comment(id='ey18uae')",
+ 'link': 'https://reddit.com/r/tumblr/comments/cuy2nm/me_irl/ey18uae/',
+ 'post': 'Me irl',
+ 'subreddit': "Subreddit(display_name='tumblr')",
+ 'trans_match': "<_sre.SRE_Match object; span=(21, 32), match='transgender'>"},
+{'body': 'Trans women didn\'t "used to be a guy".  It doesn\'t have to be '
+         '"hate" to be a prejudice.',
+ 'comment': "Comment(id='ey193d4')",
+ 'link': 'https://reddit.com/r/nothingeverhappens/comments/cums1w/because_people_cant_accept_trans_people/ey193d4/',
+ 'post': 'Because people can’t accept trans people',
+ 'subreddit': "Subreddit(display_name='nothingeverhappens')",
+ 'trans_match': "<_sre.SRE_Match object; span=(0, 11), match='Trans women'>"},
+{'body': 'I’m not going to argue with you on it, I’m just saying i’ve never '
+         'seen someone use the word transgenderism when not making a '
+         'transphobic remark. I have only ever seen it in the context of it '
+         'being reduced to some strange thing young people are doing. Maybe '
+         'your experience is different, I don’t know you.',
+ 'comment': "Comment(id='ey195c9')",
+ 'link': 'https://reddit.com/r/ForwardsFromKlandma/comments/cuvcij/ben_has_completely_lost_it/ey195c9/',
+ 'post': 'Ben has completely lost it',
+ 'subreddit': "Subreddit(display_name='ForwardsFromKlandma')",
+ 'trans_match': "<_sre.SRE_Match object; span=(92, 103), match='transgender'>"},
+{'body': "* Use one 4tag only - if you're open to more than one gender, please "
+         'use '
+         "['M4A'...](http://www.reddit.com/r/RandomActsOfMuffDive/wiki/public/tagging/V2 "
+         '"Exceptions to show a preference are: \'M4F/A\' (anyone); \'M4F/T\' '
+         "(or '/TF' & '/TM' as appropriate) for transgender, or M4F/MF for "
+         'couples.")   ____   *I am a bot, and this action was performed '
+         'automatically. Please [contact the moderators of this '
+         'subreddit](/message/compose/?to=/r/RandomActsOfMuffDive) if you have '
+         'any questions or concerns.*',
+ 'comment': "Comment(id='ey19wer')",
+ 'link': 'https://reddit.com/r/RandomActsOfMuffDive/comments/cv1lgu/31_m4fm4mfm4a_boston_fit_and_handsome_european/ey19wer/',
+ 'post': '31 [M4F/M4MF/M4A] #Boston fit and handsome European looking to be of '
+         'service',
+ 'subreddit': "Subreddit(display_name='RandomActsOfMuffDive')",
+ 'trans_match': "<_sre.SRE_Match object; span=(254, 265), match='transgender'>"},
+{'body': 'Or even more insidiously, doctors and medical professionals not '
+         'treating people on the basis of their orientation or gender '
+         'identity.',
+ 'comment': "Comment(id='ey1ad6v')",
+ 'link': 'https://reddit.com/r/EnoughLibertarianSpam/comments/cuybsr/libertarian_racism_hiding_behind_pretended/ey1ad6v/',
+ 'post': 'libertarian racism hiding behind pretended intersectionality? i m '
+         'not against armed LGBTQ ppl, but that is the WRONG PARADIGM',
+ 'subreddit': "Subreddit(display_name='EnoughLibertarianSpam')",
+ 'trans_match': "<_sre.SRE_Match object; span=(117, 132), match='gender identity'>"},
+{'body': "> I mean it's possible a guy who isn't attracted to penises could be "
+         'attracted to a post op trans woman, but probably not the majority.  '
+         'lolwut?  It\'s only "possible"??',
+ 'comment': "Comment(id='ey1ag5g')",
+ 'link': 'https://reddit.com/r/truscum/comments/cuz37w/big_yikes/ey1ag5g/',
+ 'post': 'Big yikes',
+ 'subreddit': "Subreddit(display_name='truscum')",
+ 'trans_match': "<_sre.SRE_Match object; span=(92, 103), match='trans woman'>"},
+{'body': 'I just wanted to add that I agree with you, and that I’ve frequently '
+         'felt dissatisfied with Natalie’s approach (or, uh, lack thereof) vis '
+         'a vis trans men. Even if she said “also this may be different for '
+         'trans men, but I don’t want to speak for them,” I feel like that’d '
+         'be better than what we got.   Although Natalie is good at '
+         'interrogating cultural ideas of gender (ie, why is it that we assume '
+         '“woman” = “AFAB”?), to me this felt like  a full-length video which '
+         'implicitly assumed that “man” = “AMAB,” over and over again.... :I',
+ 'comment': "Comment(id='ey1azjr')",
+ 'link': 'https://reddit.com/r/ContraPoints/comments/cuob95/masculinity_through_a_trans_mans_eyes/ey1azjr/',
+ 'post': "Masculinity through a trans man's eyes",
+ 'subreddit': "Subreddit(display_name='ContraPoints')",
+ 'trans_match': "<_sre.SRE_Match object; span=(144, 153), match='trans men'>"},
+{'body': 'Avoid Kalvin Garrah at all costs. He loves to shit on other trans '
+         "people and declare them not really trans if he doesn't like their "
+         'presentation, or they are non-binary, or if their experience differs '
+         'from his own. I wish I had some reccs on who to watch rather than '
+         "just who not to, but most trans youtuber's I used to watch have "
+         "personalities I that I find grating these days, or they've stopped "
+         'making trans content and moved on to other things I am uninterested '
+         'in.',
+ 'comment': "Comment(id='ey1b08x')",
+ 'link': 'https://reddit.com/r/asktransgender/comments/cv1lw7/youtubers_about_trans_stuff_other_than_truscum/ey1b08x/',
+ 'post': 'Youtubers about trans stuff? other than truscum.',
+ 'subreddit': "Subreddit(display_name='asktransgender')",
+ 'trans_match': "<_sre.SRE_Match object; span=(158, 168), match='non-binary'>"},
+{'body': "Call them misperceptions, but calling them lies assumes that I'm "
+         "saying things I don't believe. I don't think you're right. As a "
+         'transgender person raised in a religion that led my parents to '
+         "reject me, I believe that conditional love isn't real love, and "
+         'Catholicism only permits the conditional kind. True love is towards '
+         'a person as they are, not towards the imaginary person you want them '
+         'to be.',
+ 'comment': "Comment(id='ey1b6yd')",
+ 'link': 'https://reddit.com/r/excatholic/comments/cup4u3/i_am_a_convert_to_catholicism_in_the_age_of/ey1b6yd/',
+ 'post': 'I am a convert to Catholicism in the age of scandal and a time when '
+         'people are leaving the Catholic Church in droves in the West. I '
+         'would be happy to lovingly answer your questions',
+ 'subreddit': "Subreddit(display_name='excatholic')",
+ 'trans_match': "<_sre.SRE_Match object; span=(129, 140), match='transgender'>"},
+{'body': 'LE EPIC REDDIT BACON DAD PUN HUMOR XDDDDDDDDDDDDDDDDDDDD. Die of '
+         "cancer faggot. Downvote me if you're mad.",
+ 'comment': "Comment(id='ey1bbv7')",
+ 'link': 'https://reddit.com/r/securityguards/comments/cuxl13/0954_officer_encountered_an_individual_making/ey1bbv7/',
+ 'post': '0954: Officer encountered an individual making loud inchoate '
+         'vocalizations exhibiting visible signs of injury. Officer approached '
+         'and the individual ran off. Individual was not encountered again.',
+ 'subreddit': "Subreddit(display_name='securityguards')",
+ 'trans_match': "<_sre.SRE_Match object; span=(72, 78), match='faggot'>"},
+{'body': 'A faggot is a bundle of sticks, or a cigarette in some cultures.',
+ 'comment': "Comment(id='ey1biws')",
+ 'link': 'https://reddit.com/r/Jokes/comments/cv1smb/a_faggot_gets_carried_into_a_bar/ey1biws/',
+ 'post': 'A faggot gets carried into a bar.',
+ 'subreddit': "Subreddit(display_name='Jokes')",
+ 'trans_match': "<_sre.SRE_Match object; span=(2, 8), match='faggot'>"},
+{'body': 'For sure. The response I got to my first comment was met with some '
+         'defensive replies that [this '
+         'article](https://pdfs.semanticscholar.org/0fc3/cc1ec0a1fad392da635b6e0557c7c3c0e408.pdf) '
+         'seems literally geared at, as it talks about how transgender '
+         'identities threaten the concept of heteronormativity. Key points:  > '
+         'Cisgender men and women attempt to repair these potential ruptures '
+         'through the deployment of normatively gendered tactics  that  reify  '
+         'gender  and  sexual  difference.  These  tactics  simultane-ously  '
+         'negate  the  authenticity  of  transmen  and  transwomen’s  gender  '
+         'and sexual  identities  and  reaffirm  the  heteronormative  '
+         'assumption  that  only “opposite  sex”  attraction  between  two  '
+         'differently  sexed  and  gendered bodies is normal, natural, and '
+         'desirable. (442)  > The  taken-for-granted  expectation  that  '
+         'heterosexuality  and  gender identity  follow  from  genitalia  '
+         'produces  heteronormativity—even  though in most social interactions '
+         'genitals are not actually visible. People do not expect a mismatch '
+         'between “biological” credentials and gender presenta-tions  but  '
+         'rather  assume  that  gendered  appearances  reflect  a  '
+         'biologically sexed reality (West and Zimmerman 1987). This '
+         'assumption is not always warranted.  Transgender  people—people  '
+         'who  live  with  a  social  gender identity that differs from the '
+         'gender they were assigned at birth—can successfully  do  '
+         'masculinity  or  femininity  without  having  the  genitalia  that '
+         'are presumed to follow from their outward appearance. (443)  > '
+         'Transgender people have their claim to their gender category of '
+         'choice challenged in these situations on the basis of genitalia, '
+         'which in turn calls the heterosexuality of cisgender people they '
+         'have been sexual with into question. (444).  > In sexualized '
+         'situations, transmen’s masculinity is simultaneously reinforced—as '
+         'men frame them as heterosexual men—and challenged—as women position '
+         'them as homosexual women. (447)  > In sexualized situations, women '
+         'frame transmen as deceptive—tricking women into seemingly '
+         'heterosexual relationships without the necessary biological marker '
+         'of manhood. (450)  > Perhaps  drawing  on  their  own  surprise  at  '
+         'learning  that  someone who  looks  like  a  man  might  not  have  '
+         'a  penis,  they  want  to  alert  other women who could be “tricked” '
+         'into homosexuality.  (451)  > This difference  suggests  that  '
+         'cisgender  people  react  more  strongly  toward transgender people '
+         'who become the “opposite gender” but are presumed to still be the '
+         '“same sex,” as they—and their entire gender—now run the risk of '
+         'unwittingly engaging in homosexuality. Yet the public context of '
+         'these relationships still mediates the methods used to enforce '
+         'heteronormativity. (452)  > In  public  interactions  not  coded  '
+         'as  sexual,  self-identity  and gender presentation can be '
+         'sufficient to place someone in his or her gender category of '
+         'choice—particularly in situations where this new identity is '
+         'supported by people in authority positions. (459).  > The violent '
+         'reactions  from  men  illustrate  the  real-life  outcomes  of  '
+         'gender  socialization  that  requires  men  to  demonstrate  their  '
+         'own  masculinity  and  hetero-sexuality through the devaluation and '
+         'ridicule of male homosexuality and any presentations—by men or by '
+         'women—of femininity (460).  > Sexual  and nonsexual   situations   '
+         'require   different   degrees   of   “oppositeness.” Heterosexual '
+         'interactions entail both opposite genitals as well as opposite '
+         'gendered behavior. By contrast, nonsexual heterosocial interactions '
+         'only require opposite gendered behavior, so self-identity can be '
+         'accepted with-out biological credentials. As genitals are not '
+         'visible in nonsexual situa-tions,  and  are  not  needed  to  '
+         'engage  in  any  of  the  expected  behaviors  of the interaction, '
+         'they are not required to establish membership in a gender category  '
+         'for  nonsexual  relationships.  By  contrast,  genitals  are  a  '
+         'central part of the social interaction of a sexual encounter, and so '
+         'are used both to determine the genders of the people involved as '
+         'well as the sexual ori-entation  of  the  encounter.  Thus,  the  '
+         'criteria  for  gender  membership  are different  in  social  '
+         'versus  (hetero)sexual  circumstances;  only  in  sexual situations '
+         'is there a requirement that gender (self-presentation) equals sex '
+         '(genitals). Accepting transgender people’s self-identity in '
+         'nonsexual situ-ations does not threaten cisgender people’s claims to '
+         'heterosexual status. Men  can  be homosocial  with  other  men,  '
+         'including  those  who  lack  the biological credentials for '
+         'maleness, without being homosexual. In sexual-ized circumstances, '
+         'however, heterosexuality is threatened by the one-act rule  of  '
+         'homosexuality.  Cisgender  men  stand  to  lose  not  just  their  '
+         'sexual identity but also their standing as “real” men. (460)  I '
+         'would add that I was never saying physical attraction has nothing to '
+         'do with sexual orientation, of course it does. But physical '
+         "attraction doesn't only mean what's in your pants, and in fact in "
+         "most cases people probably never get that far. In most cases it's "
+         'moreso gender presentation because when you see someone you see how '
+         'they present, irrelevant of their genital sex. And your preference '
+         'of what arouses or interests you determines your sexual orientation. '
+         'If you make it to the point where genitalia comes into play and if '
+         "there's an incongruence between the gender identity and genital sex, "
+         'nobody is forcing you to be interested in that particular genital '
+         "sex, but it doesn't retroactively turn an otherwise heterosexual "
+         'attraction into a homosexual one (or vice versa), your sexual '
+         'orientation and interest/arousal aligned heterosexually or '
+         "homosexually with their gender identity/presentation. It's important "
+         'to have more people understand that because just like the article '
+         'mentions, people like me die because other people feel personally '
+         'threatened over something as dumb as the definition of a sexual '
+         'orientation label.',
+ 'comment': "Comment(id='ey1bjf4')",
+ 'link': 'https://reddit.com/r/asktransgender/comments/curnh6/nsfw_why_do_i_feel_like_such_a_hypocrite_god_why/ey1bjf4/',
+ 'post': '[NSFW] Why do I feel like such a hypocrite?! God why.',
+ 'subreddit': "Subreddit(display_name='asktransgender')",
+ 'trans_match': "<_sre.SRE_Match object; span=(234, 245), match='transgender'>"},
+{'body': "Nope, you're just a dumb faggot.",
+ 'comment': "Comment(id='ey1cbj3')",
+ 'link': 'https://reddit.com/r/stupidpol/comments/cunjrz/the_search_for_a_healthy_masculinity_on/ey1cbj3/',
+ 'post': 'The search for a "healthy" masculinity - On ContraPoints new video '
+         '[Question',
+ 'subreddit': "Subreddit(display_name='stupidpol')",
+ 'trans_match': "<_sre.SRE_Match object; span=(25, 31), match='faggot'>"},
+{'body': 'OH WHATS THAT? YOU SEXUALLY IDENTIFY AS AN ATTACK HELICOPTER? WELL I '
+         "GUESS I SHOULD'VE BROUGHT SOME FUCKING ANTI AIR MISSILES CAUSE I "
+         "DON'T TOLERATE THAT TRANSPHOBIC BULLSHIT",
+ 'comment': "Comment(id='ey1cbos')",
+ 'link': 'https://reddit.com/r/dankmemes/comments/cutk20/muh_freeze_peach/ey1cbos/',
+ 'post': 'MUH FREEZE PEACH',
+ 'subreddit': "Subreddit(display_name='dankmemes')",
+ 'trans_match': "<_sre.SRE_Match object; span=(32, 35), match='TIF'>"},
+{'body': '[Sauce](https://trannyvideosxxx.com/devilfilsm-transsexual-girlfriend-experience-08-jessy-bells/)',
+ 'comment': "Comment(id='ey1cc6g')",
+ 'link': 'https://reddit.com/r/JessyBells/comments/cuxoqe/jessy_bells_in_trans_girlfriend_experience/ey1cc6g/',
+ 'post': 'Jessy Bells in Trans Girlfriend Experience',
+ 'subreddit': "Subreddit(display_name='JessyBells')",
+ 'trans_match': "<_sre.SRE_Match object; span=(47, 58), match='transsexual'>"},
+{'body': 'Oh god what have I done? Since reading your testosterone-laden '
+         'comments, my wife’s son has gotten even worse.   After burning my '
+         'Brie Larson posters, he started saying something about red pills and '
+         'making jokes about attack helicopters.  Now there is a small crowd '
+         'of women out the front wanting to sleep with him and then accuse him '
+         'of rape.   What are these red pills?  Are they vegan friendly?  '
+         'Hillary help me, I don’t know what to do... please send help.',
+ 'comment': "Comment(id='ey1ci8x')",
+ 'link': 'https://reddit.com/r/movies/comments/cuwb06/star_wars_the_rise_of_skywalker_poster/ey1ci8x/',
+ 'post': 'Star Wars: The Rise of Skywalker poster',
+ 'subreddit': "Subreddit(display_name='movies')",
+ 'trans_match': "<_sre.SRE_Match object; span=(217, 234), match='attack helicopter'>"},
+{'body': "The bill didn't say anything about speech or pronouns. All it did "
+         'was add protection of gender expression and gender identity to the '
+         "human rights act and criminal code protections against hate. It's "
+         'only purpose was to protect the rights of trans people (the "T" in '
+         'LGBT), and other non-binaries.',
+ 'comment': "Comment(id='ey1ck8i')",
+ 'link': 'https://reddit.com/r/CanadaPolitics/comments/cuyya9/scheer_attending_a_pride_event_would_be_an_insult/ey1ck8i/',
+ 'post': "Scheer attending a Pride event would be 'an insult to the "
+         "community,' says LGBTQ activist | CBC News",
+ 'subreddit': "Subreddit(display_name='CanadaPolitics')",
+ 'trans_match': "<_sre.SRE_Match object; span=(110, 125), match='gender identity'>"},
+{'body': '[Yeah, '
+         'right.](https://www.reddit.com/r/syriancivilwar/comments/cuwqgx/turkey_deports_syrian_transgender_woman_to_idlib/)',
+ 'comment': "Comment(id='ey1cl56')",
+ 'link': 'https://reddit.com/r/syriancivilwar/comments/cuxazi/turkey_is_helping_not_deporting_syrian_refugees/ey1cl56/',
+ 'post': 'Turkey is helping, not deporting, Syrian refugees: Presidential '
+         'communications director',
+ 'subreddit': "Subreddit(display_name='syriancivilwar')",
+ 'trans_match': "<_sre.SRE_Match object; span=(93, 104), match='transgender'>"},
+{'body': "Thank you, I'm glad i could share :) this has been a very "
+         'interesting talk for me as well.   Lesbian women are rebelling '
+         "against men, who find them attractive when they don't want them to, "
+         'and against straight women who want us to perform feminity just like '
+         "they do. Women's rules for each other is deep and women can be very "
+         'harsh when they see a woman who is not traditionally feminine. This '
+         'is another way of asserting dominance. Its frankly a little hard to '
+         'understand why women hate "ugly" lesbians, aren\'t they happy they '
+         'have one less person to compete with? Yet I have heard plenty of '
+         'hatred from women toward "ugly" lesbians   As for the rest, i agree '
+         'that the there is a problem with the way people are going about '
+         'trying to make things equal. In the end it is just pushing people '
+         'into more extremes to get away from it, and it makes sense why '
+         'people are rebelling against it so hard, because there is absolutely '
+         'no room for discussion or consideration of all the feelings of all '
+         'involved people. This is having a huge effect on women who are soley '
+         "lesbian as well, because we aren't allowed to have our own space "
+         'without bisexual women and trans men being involved without being '
+         'crucified. Heard of terfs?  Men and women expect very different '
+         'things from relationships, which makes me wonder why they even want '
+         'to be together. I guess that part is biological for straight people '
+         'but i feel like gay people are operating under an entirely different '
+         'set of biological rules.',
+ 'comment': "Comment(id='ey1cm4i')",
+ 'link': 'https://reddit.com/r/WhereAreAllTheGoodMen/comments/cunhru/i_love_my_boyfriend_but_also_want_to_keep_riding/ey1cm4i/',
+ 'post': 'I love my boyfriend but also want to keep riding the carousel.',
+ 'subreddit': "Subreddit(display_name='WhereAreAllTheGoodMen')",
+ 'trans_match': "<_sre.SRE_Match object; span=(1151, 1160), match='trans men'>"},
+{'body': 'Except transpeople are still limited to woman, or man, the article '
+         'you linked even said that.  There is no other gender!  And a binary '
+         'gradient is not arguing over semantics. There is a clear difference '
+         'between a spectrum of rainbows, versus a male-female binary '
+         'gradient, which *helps* explain varying degrees of femininity and '
+         "masculinity. Again, still two genders, since we're only referring to "
+         'femininity and masculinity.  If there exists more than two genders, '
+         'than these other genders would manifests in a manner which does not '
+         'bear any resemblance to masculinity, or femininity.  These '
+         'non-binary genders would not have enlarged breasts (femininity), '
+         'would not have vaginas (femininity), flat chests (masculinity) and '
+         'would not have penises (masculinity), they would have to manifest in '
+         'a manner completely separate from femininity and masculinity.  In '
+         'other words the physical manifestation of a non-binary gender would '
+         'be a completely different species altogether.',
+ 'comment': "Comment(id='ey1cs0a')",
+ 'link': 'https://reddit.com/r/RightwingLGBT/comments/ctlbxv/hey_guys_remember_that_post_with_those_men/ey1cs0a/',
+ 'post': 'Hey guys, remember that post with those men expressing their sexual '
+         'fetish around children? I got banned from r/LGBT for taking issue '
+         "with it! I'm not even right wing but I figure you guys are more "
+         'rational about this kinda thing.',
+ 'subreddit': "Subreddit(display_name='RightwingLGBT')",
+ 'trans_match': "<_sre.SRE_Match object; span=(593, 603), match='non-binary'>"},
+{'body': 'Intersex is an extremely rare abnormality, or deformity. It is not '
+         'the norm. Your question is subjective and pointless. What if two '
+         'penises developed, are you suddenly twice as manly?  Definition of '
+         'sex:  “Sexual intercourse is principally the insertion and thrusting '
+         'of the penis, usually when erect, into the vagina for sexual '
+         'pleasure, reproduction, or both.”  You know what you’re doing. You '
+         'want to deform a word that has meant the same thing for ages.  I’m '
+         'not trying to introduce naturalistic fallacy, in fact you are. '
+         'Because binary sex for humans and non binary sex in the animal '
+         'kingdom produce the same results you’re attempting to correlate the '
+         'two.   I’m just saying it’s nonsensical.',
+ 'comment': "Comment(id='ey1cygm')",
+ 'link': 'https://reddit.com/r/Jokes/comments/cu5y0i/if_i_had_a_hundred_dollars_for_every_gender/ey1cygm/',
+ 'post': 'If I had a hundred dollars for every gender',
+ 'subreddit': "Subreddit(display_name='Jokes')",
+ 'trans_match': "<_sre.SRE_Match object; span=(560, 570), match='non binary'>"},
+{'body': 'Yeah, this was definitely very far from my favorite video of hers. '
+         'She *has* said things to that effect (“also this might be '
+         'different...”) somewhat more diligently at times regarding race (not '
+         'in this video), though sometimes that feels like a dodge. But in '
+         'this video, not to acknowledge trans men seemed like a glaring '
+         'omission. Frankly, I think she’s a bit burned out.',
+ 'comment': "Comment(id='ey1dn7v')",
+ 'link': 'https://reddit.com/r/ContraPoints/comments/cuob95/masculinity_through_a_trans_mans_eyes/ey1dn7v/',
+ 'post': "Masculinity through a trans man's eyes",
+ 'subreddit': "Subreddit(display_name='ContraPoints')",
+ 'trans_match': "<_sre.SRE_Match object; span=(290, 299), match='trans men'>"},
+{'body': 'Not trying to start a nasty flame war here, but I’m curious if you '
+         'believe that a man can transition to a woman even though '
+         'scientifically we are different sexes? The left believes in science '
+         'for abortion and climate, why do they abandon science when it comes '
+         'to the transgender debate?',
+ 'comment': "Comment(id='ey1douy')",
+ 'link': 'https://reddit.com/r/WhitePeopleTwitter/comments/cuy1qu/definitely_makes_you_think/ey1douy/',
+ 'post': 'Definitely makes you think',
+ 'subreddit': "Subreddit(display_name='WhitePeopleTwitter')",
+ 'trans_match': "<_sre.SRE_Match object; span=(267, 278), match='transgender'>"},
+{'body': 'Faggot who says "cope" is probably an alt',
+ 'comment': "Comment(id='ey1dpeq')",
+ 'link': 'https://reddit.com/r/Cumtown/comments/cu0967/picture_of_me_getting_spaghetti_at_mcdonalds_in/ey1dpeq/',
+ 'post': "Picture of me getting spaghetti at McDonald's in Thailand",
+ 'subreddit': "Subreddit(display_name='Cumtown')",
+ 'trans_match': "None},
+{'body': 'I had a friend years ago who was like that. More woke than thou but '
+         "really just super racist. Never stopped bragging that she'd once "
+         'dated a trans man of color. Very fetishy about it. Ugh.',
+ 'comment': "Comment(id='ey1dqfn')",
+ 'link': 'https://reddit.com/r/TumblrInAction/comments/cut401/double_standards_in_racism/ey1dqfn/',
+ 'post': 'Double standards in racism',
+ 'subreddit': "Subreddit(display_name='TumblrInAction')",
+ 'trans_match': "<_sre.SRE_Match object; span=(141, 150), match='trans man'>"},
+{'body': "It's not science, it's preposterous pseudoscience created by "
+         "interest groups. I've read all the transgender propaganda in the "
+         'world because people like you are plentiful Reddit.   All reliable, '
+         'unbiased, actual science shows and continues to show precisely what '
+         "I've said. Sex is biological, there are only two, transgenderism is "
+         'a disorder, and "gender" as the LGBT uses it is another phrase for '
+         'personality. It is not scientific. The way gender is actually '
+         'understood (male gender and female gender) is through the '
+         'characteristics and traits biologically linked to those sexes.',
+ 'comment': "Comment(id='ey1dyau')",
+ 'link': 'https://reddit.com/r/Libertarian/comments/cux4bu/protect_yourself_because_no_one_else_will_the/ey1dyau/',
+ 'post': 'Protect yourself because no one else will. The LGBTQ community knows '
+         'this better then anyone.',
+ 'subreddit': "Subreddit(display_name='Libertarian')",
+ 'trans_match': "<_sre.SRE_Match object; span=(96, 107), match='transgender'>"},
+{'body': 'i say transgender. so you should say cisgender .',
+ 'comment': "Comment(id='ey1dzuy')",
+ 'link': 'https://reddit.com/r/lgbt/comments/cuxh2i/tumblr_always_cracks_me_up/ey1dzuy/',
+ 'post': 'Tumblr always cracks me up.',
+ 'subreddit': "Subreddit(display_name='lgbt')",
+ 'trans_match': "<_sre.SRE_Match object; span=(6, 17), match='transgender'>"},
+{'body': 'The research paper you linked only references the binary genders, '
+         'men and women.  Your own research failed you. It makes no mention of '
+         "non-binary.  It even refers to *women's health*.  >The continuing "
+         'dedication by physiologists to sex-based and women’s health research '
+         'comes from the understanding that although females and males share '
+         'many physiological similarities, they are fundamentally different.   '
+         "You're so daft.",
+ 'comment': "Comment(id='ey1e9tw')",
+ 'link': 'https://reddit.com/r/RightwingLGBT/comments/ctlbxv/hey_guys_remember_that_post_with_those_men/ey1e9tw/',
+ 'post': 'Hey guys, remember that post with those men expressing their sexual '
+         'fetish around children? I got banned from r/LGBT for taking issue '
+         "with it! I'm not even right wing but I figure you guys are more "
+         'rational about this kinda thing.',
+ 'subreddit': "Subreddit(display_name='RightwingLGBT')",
+ 'trans_match': "<_sre.SRE_Match object; span=(135, 145), match='non-binary'>"},
+{'body': ">Turkey isn't even safe for its own transgenders? What the fuck are "
+         "you on about mate? Being an LGBT person isn't a crime in Turkey "
+         "obviously, and you won't be taken away and killed for being a trans "
+         'person.  >Actually if you are fleeing war, your sexual identity '
+         'should not even matter for a while until you reach safety. It is if '
+         "you're being deported to Idlib, where fundamentalist jihadist "
+         'militants can take you.   >If refugees illegally entered their '
+         "country, they do. We're talking about legal refugees here.  >if you "
+         'know that you are being deported to an Al-nusra controlled area you '
+         'would at least delete your gay porn on your phone.  Completely '
+         "meaningless argument.  >Turkey doesn't deport people because they "
+         "are transgenders  So what? It's downright embarrassing that we let "
+         'that woman be deported for any reason because A: we deported her to '
+         'fucking Idlib. and B: As an LGBT person she was at risk.',
+ 'comment': "Comment(id='ey1ep1g')",
+ 'link': 'https://reddit.com/r/Turkey/comments/cv11vr/turkey_deports_syrian_transgender_woman_to_idlib/ey1ep1g/',
+ 'post': 'Turkey deports Syrian transgender woman to Idlib, the woman is then '
+         'taken by HTS.',
+ 'subreddit': "Subreddit(display_name='Turkey')",
+ 'trans_match': "<_sre.SRE_Match object; span=(36, 47), match='transgender'>"},
+{'body': '"The chief executive of the LGBTIQA+ suicide prevention service '
+         'Switchboard, Joe Ball, said calls to the service had been increasing '
+         'in the almost two years since the postal survey, and the past two '
+         'months had been tracking higher than the months of July and August '
+         'last year. They said the media coverage had created an “authorising '
+         'environment” for people to target gay and transgender people."  '
+         '"“There’s a confusion that there’s a freedom to create hate speech, '
+         'that’s what it is encouraging,” they said. “We’ve had an increase in '
+         'people who have contacted our service and have sent us hate '
+         'messages.”"  This is what the coalition have created with their '
+         'refusal to do their jobs in the first instance by legislatiing for '
+         'gay marriage and instead having a divisive and hate-filled '
+         'plebiscite. They have then allowed this hatred to fester by focusing '
+         'on"religious freedoms" rather than an inclusive society.',
+ 'comment': "Comment(id='ey1ew42')",
+ 'link': 'https://reddit.com/r/australia/comments/cv1xzj/how_children_became_the_target_in_a_rightwing/ey1ew42/',
+ 'post': 'How children became the target in a rightwing culture war over '
+         'gender',
+ 'subreddit': "Subreddit(display_name='australia')",
+ 'trans_match': "<_sre.SRE_Match object; span=(376, 387), match='transgender'>"},
+{'body': 'Well in the case of this article it sounds like his administration, '
+         'not him, is arguing what a specific ruling means. It’s also about '
+         'transgender people not gays necessarily. That’s what the article '
+         'makes it sound like anyway.',
+ 'comment': "Comment(id='ey1exoe')",
+ 'link': 'https://reddit.com/r/gaybros/comments/cv1unm/trump_administration_brief_asks_supreme_court_to/ey1exoe/',
+ 'post': 'Trump Administration Brief Asks Supreme Court To Allow Firing '
+         'Workers For Being Gay',
+ 'subreddit': "Subreddit(display_name='gaybros')",
+ 'trans_match': "<_sre.SRE_Match object; span=(134, 145), match='transgender'>"},
+{'body': 'Wow an entire sub dedicated to not understanding the idea that '
+         'gender identity is going to play a part in sexuality and that people '
+         'can feel good about getting to be themselves',
+ 'comment': "Comment(id='ey1f158')",
+ 'link': 'https://reddit.com/r/Libertarian/comments/cux4bu/protect_yourself_because_no_one_else_will_the/ey1f158/',
+ 'post': 'Protect yourself because no one else will. The LGBTQ community knows '
+         'this better then anyone.',
+ 'subreddit': "Subreddit(display_name='Libertarian')",
+ 'trans_match': "<_sre.SRE_Match object; span=(63, 78), match='gender identity'>"},
+{'body': 'No, calling me a faggot and a retard is.   Now run along.',
+ 'comment': "Comment(id='ey1f16e')",
+ 'link': 'https://reddit.com/r/Libertarian/comments/cuo3wd/youtube_disables_hundreds_of_channels_claimed_to/ey1f16e/',
+ 'post': 'YouTube disables hundreds of channels claimed to be part of a '
+         'campaign against pro-democracy protests in Hong Kong',
+ 'subreddit': "Subreddit(display_name='Libertarian')",
+ 'trans_match': "<_sre.SRE_Match object; span=(17, 23), match='faggot'>"},
+{'body': 'Prince the most savage mtfk on the planet',
+ 'comment': "Comment(id='ey1f3qg')",
+ 'link': 'https://reddit.com/r/nfl/comments/cutype/prince_amukamara_dearest_captandrewluck_the/ey1f3qg/',
+ 'post': '[Prince Amukamara] Dearest @CaptAndrewLuck — The rumblings are true. '
+         'Bears are indeed heading your way. Ready your unit, trim your '
+         'neckbeard, be prepared for a skirmish. Shall you see a cub, do not '
+         'engage, for that cub is heading for club dub. — Prince',
+ 'subreddit': "Subreddit(display_name='nfl')",
+ 'trans_match': "<_sre.SRE_Match object; span=(23, 26), match='mtf'>"},
+{'body': 'Faggot',
+ 'comment': "Comment(id='ey1fhrr')",
+ 'link': 'https://reddit.com/r/greentext/comments/cv1cz8/anon_is_in_minecraft/ey1fhrr/',
+ 'post': 'Anon is in Minecraft',
+ 'subreddit': "Subreddit(display_name='greentext')",
+ 'trans_match': "None},
+{'body': '0 upvotes at the time of this comment..... lol faggot',
+ 'comment': "Comment(id='ey1fl0d')",
+ 'link': 'https://reddit.com/r/greentext/comments/cv1cz8/anon_is_in_minecraft/ey1fl0d/',
+ 'post': 'Anon is in Minecraft',
+ 'subreddit': "Subreddit(display_name='greentext')",
+ 'trans_match': "<_sre.SRE_Match object; span=(47, 53), match='faggot'>"},
+{'body': '&#x200B;  '
+         '[http://brain.oxfordjournals.org/content/131/12/3132.long](http://brain.oxfordjournals.org/content/131/12/3132.long)  '
+         "> Transsexuality is an individual's unshakable conviction of "
+         'belonging to the opposite sex, resulting in a request for '
+         'sex-reassignment surgery. We have shown previously that the bed '
+         'nucleus of the stria terminalis (BSTc) is female in size and neuron '
+         'number in male-to-female transsexual people. In the present study we '
+         'investigated the hypothalamic uncinate nucleus, which is composed of '
+         'two subnuclei, namely interstitial nucleus of the anterior '
+         'hypothalamus (INAH) 3 and 4. Post-mortem brain material was used '
+         'from 42 subjects: 14 control males, 11 control females, 11 '
+         'male-to-female transsexual people, 1 female-to-male transsexual '
+         'subject and 5 non-transsexual subjects who were castrated because of '
+         'prostate cancer. To identify and delineate the nuclei and determine '
+         'their volume and shape we used three different stainings throughout '
+         'the nuclei in every 15th section, i.e. thionin, neuropeptide Y and '
+         'synaptophysin, using an image analysis system. The most pronounced '
+         'differences were found in the INAH3 subnucleus. Its volume in '
+         'thionin sections was 1.9 times larger in control males than in '
+         'females (P< 0.013) and contained 2.3 times as many cells (P<0.002). '
+         'We showed for the first time that INAH3 volume and number of neurons '
+         'of male-to-female transsexual people is similar to that of control '
+         'females. The female-to-male transsexual subject had an INAH3 volume '
+         'and number of neurons within the male control range, even though the '
+         'treatment with testosterone had been stopped three years before '
+         'death. The castrated men had an INAH3 volume and neuron number that '
+         'was intermediate between males (volume and number of neurons P> '
+         '0.117) and females (volume P> 0.245 and number of neurons P> 0.341). '
+         'There was no difference in INAH3 between pre-and post-menopausal '
+         'women, either in the volume (P> 0.84) or in the number of neurons '
+         '(P< 0.439), indicating that the feminization of the INAH3 of '
+         'male-to-female transsexuals was not due to estrogen treatment. **We '
+         'propose that the sex reversal of the INAH3 in transsexual people is '
+         'at least partly a marker of an early atypical sexual differentiation '
+         'of the brain and that the changes in INAH3 and the BSTc may belong '
+         'to a complex network that may structurally and functionally be '
+         'related to gender identity.**   Note: This one is also excellent. '
+         'Note how they brought in different people and attempted to control '
+         'for the small sample size.  &#x200B;  '
+         '[http://www.ncbi.nlm.nih.gov/pubmed/18761592](http://www.ncbi.nlm.nih.gov/pubmed/18761592)  '
+         '>Transsexuals harbor the strong feeling of having been born to the '
+         'wrong sex. There is a continuing controversial discussion of whether '
+         'or not transsexualism has a biological representation. Differences '
+         'between males and females in terms of functional imaging during '
+         'erotic stimuli have been previously described, revealing '
+         'gender-specific results. Therefore, we postulated that '
+         'male-to-female (MTF) transsexuals may show specific cerebral '
+         'activation differing from their biological gender. **Cerebral '
+         'activation patterns during viewing of erotic film excerpts in '
+         'functional magnetic resonance imaging (fMRI). Twelve male and 12 '
+         'female heterosexual volunteers and 12 MTF transsexuals before any '
+         'treatment viewed erotic film excerpts during fMRI. Additionally, '
+         'subjective rating of sexual arousal was assessed.** Statistics were '
+         'performed using the Statistical Parametric Mapping software. '
+         '**Significantly enhanced activation for men compared with women was '
+         'revealed in brain areas involved in erotic processing, i.e., the '
+         'thalamus, the amygdala, and the orbitofrontal and insular cortex, '
+         'whereas no specific activation for women was found. When comparing '
+         'MTF transsexuals with male volunteers, activation patterns similar '
+         'to female volunteers being compared with male volunteers were '
+         'revealed.** Sexual arousal was assessed using standard rating scales '
+         'and did not differ significantly for the three groups. We revealed a '
+         'cerebral activation pattern in MTF transsexuals compared with male '
+         'controls similar to female controls compared with male controls '
+         'during viewing of erotic stimuli, indicating a tendency of '
+         'female-like cerebral processing in transsexualism.  Note: This study '
+         'had subjects watch porn and found that the MTF trans people reacted '
+         'more like women, but it doesn\'t go into things like "Does this '
+         'support the AGP hypothesis?" or "Are the trans and female patients '
+         'identifying with the women in the porn shown?" Note also that no FTM '
+         'subjects are included.   &#x200B;  '
+         '[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754583/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754583/)  '
+         ">Gender identity—one's sense of being a man or a woman—is a "
+         'fundamental perception experienced by all individuals that extends '
+         'beyond biological sex. Yet, what contributes to our sense of gender '
+         'remains uncertain. Since individuals who identify as transsexual '
+         'report strong feelings of being the opposite sex and a belief that '
+         'their sexual characteristics do not reflect their true gender, they '
+         'constitute an invaluable model to understand the biological '
+         'underpinnings of gender identity. We analyzed MRI data of 24 '
+         'male-to-female (MTF) transsexuals not yet treated with cross-sex '
+         'hormones in order to determine whether gray matter volumes in MTF '
+         'transsexuals more closely resemble people who share their biological '
+         'sex (30 control men), or people who share their gender identity (30 '
+         'control women). **Results revealed that regional gray matter '
+         'variation in MTF transsexuals is more similar to the pattern found '
+         'in men than in women. However, MTF transsexuals show a significantly '
+         'larger volume of regional gray matter in the right putamen compared '
+         'to men. These findings provide new evidence that transsexualism is '
+         'associated with distinct cerebral pattern, which supports the '
+         'assumption that brain anatomy plays a role in gender identity.**   '
+         'Note: "A distinct cerebral pattern". Meaning it doesn\'t match '
+         "female brains, but it's still unique and important to recognize.  "
+         '&#x200B;  '
+         '[http://www.ncbi.nlm.nih.gov/pubmed/21195418](http://www.ncbi.nlm.nih.gov/pubmed/21195418)  '
+         '>Diffusion tensor imaging (DTI) has been shown to be sensitive in '
+         'detecting white matter differences between sexes. Before cross-sex '
+         'hormone treatment female to male transsexuals (FtM) differ from '
+         'females but not from males in several brain fibers. The purpose of '
+         'this paper is to investigate whether white matter patterns in male '
+         'to female (MtF) transsexuals before commencing cross-sex hormone '
+         'treatment are also more similar to those of their biological sex or '
+         'whether they are more similar to those of their gender identity. DTI '
+         'was performed in 18 MtF transsexuals and 19 male and 19 female '
+         'controls scanned with a 3 T Trio Tim Magneton. Fractional anisotropy '
+         '(FA) was performed on white matter of the whole brain, which was '
+         'spatially analyzed using Tract-Based Spatial Statistics. MtF '
+         'transsexuals differed from both male and female controls bilaterally '
+         'in the superior longitudinal fasciculus, the right anterior '
+         'cingulum, the right forceps minor, and the right corticospinal '
+         'tract**. Our results show that the white matter microstructure '
+         'pattern in untreated MtF transsexuals falls halfway between the '
+         'pattern of male and female controls.** The nature of these '
+         'differences suggests that some fasciculi do not complete the '
+         'masculinization process in MtF transsexuals during brain '
+         'development.',
+ 'comment': "Comment(id='ey1fl5v')",
+ 'link': 'https://reddit.com/r/GCdebatesQT/comments/cuy0jv/a_comprehensive_list_of_brain_gender_studies/ey1fl5v/',
+ 'post': 'A comprehensive list of brain gender studies',
+ 'subreddit': "Subreddit(display_name='GCdebatesQT')",
+ 'trans_match': "<_sre.SRE_Match object; span=(130, 141), match='Transsexual'>"},
+{'body': 'Either way he’s a faggot',
+ 'comment': "Comment(id='ey1fn4y')",
+ 'link': 'https://reddit.com/r/averageredditor/comments/cv1jt0/reddit_moment/ey1fn4y/',
+ 'post': 'Reddit moment',
+ 'subreddit': "Subreddit(display_name='averageredditor')",
+ 'trans_match': "<_sre.SRE_Match object; span=(18, 24), match='faggot'>"},
+{'body': 'Do a short story club, the person who chooses the story has to come '
+         'up with discussion questions, the length/content anything that '
+         'person believes to be worth discussing for an hour or two and of a '
+         'reasonable length for everybody to be able to read in the 7, 6, 5, 4 '
+         'or 3 days remaining from when they choose their selection- people '
+         "get lazy and choose late, it's important to reward the effort, "
+         'anyway, and the ideal, to my mind, is an unserious place to discuss '
+         "serious subjects *without* their due gravity.     That's not "
+         'something people have, in modern life, and whatever longform '
+         'journalism/academic journal article/short story/poem that might '
+         'convey whatever notions or signifiers or- etc- that they would like '
+         'to talk about, the piece can set a lot up for them; beware advocacy '
+         'pieces, the one haywire in three or four years of roughly this model '
+         'was....     "Trans-woman, not accepted by her Somali Father, an '
+         'immigrant to the U.K.," response: her dad was being a dick, also, '
+         'had pain- we had to assign an advocatus diaboli, which was fun, it '
+         'was me, though...there were better ones.     '
+         '[Faceebook.com/bookdeathwineclub](https://Faceebook.com/bookdeathwineclub) '
+         'has the logistical archives, as well as every piece discussed- the '
+         'person who chooses the piece has to find a copy for everybody '
+         "online- thee reason that I'm suggesting that you do this yourself is "
+         "that you want a book club, not a resume club, so, you're going to do "
+         'this right- seriously, nobody does shit, irl, if you get three '
+         "people together every Wednesday you'll havee starteed something- "
+         'invite thee interesting people you meet, make it clear that others '
+         'can do that too- wham, bam, mine was more.....coherent, ideological, '
+         'passionate and well accredited on paper than the Saint Louis City '
+         "Democratic Party; not fucking with you.     I've been too busy, but, "
+         "yes, I'm going to do mine again-too- you should do it, be brave- "
+         'bravery is the best and most rewarding of the affirmative virtues! I '
+         "certainly think so, anyway, and....I'll get you that archive.",
+ 'comment': "Comment(id='ey1g1j5')",
+ 'link': 'https://reddit.com/r/OSU/comments/cv1fr2/book_clubs/ey1g1j5/',
+ 'post': 'book clubs?',
+ 'subreddit': "Subreddit(display_name='OSU')",
+ 'trans_match': "<_sre.SRE_Match object; span=(868, 879), match='Trans-woman'>"},
+{'body': 'transgender people have existed for thousands of years, we have '
+         'records of trans people in Sumer at the begining of human '
+         "civilization 4500 years ago. I'm not really sure what you're getting "
+         'at but trans people will continue to exist as long as humanity '
+         "exists, bc we've existed for as long as humanity has existed "
+         'already.',
+ 'comment': "Comment(id='ey1g8zm')",
+ 'link': 'https://reddit.com/r/Libertarian/comments/cux4bu/protect_yourself_because_no_one_else_will_the/ey1g8zm/',
+ 'post': 'Protect yourself because no one else will. The LGBTQ community knows '
+         'this better then anyone.',
+ 'subreddit': "Subreddit(display_name='Libertarian')",
+ 'trans_match': "<_sre.SRE_Match object; span=(0, 11), match='transgender'>"},
+{'body': 'I love they way they use a super-feminine soft-voiced '
+         'non-threatening transwoman to be the victim in this situation. And '
+         "how she is all oh I feel so hurt and sad and doesn't get into a huge "
+         'violent shouting argument like real TRAs would.  Unlike a lot of '
+         "posters here I don't care what toilet people use, but I wonder how "
+         'well this would go down if the TW was Jessica Yaniv or even better '
+         'Danielle Muscato?',
+ 'comment': "Comment(id='ey1gdmw')",
+ 'link': 'https://reddit.com/r/GenderCritical/comments/cur4xb/abc_what_would_you_do_gaslights_us_with_mom_tells/ey1gdmw/',
+ 'post': "ABC 'What Would You Do' gaslights us with 'Mom tells transgender "
+         "woman not to use women’s bathroom ' episode featuring Jazz Jennings",
+ 'subreddit': "Subreddit(display_name='GenderCritical')",
+ 'trans_match': "<_sre.SRE_Match object; span=(70, 80), match='transwoman'>"},
+{'body': '[http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0070808](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0070808)  '
+         '> Individuals with gender identity disorder (GID), who are commonly '
+         'referred to as transsexuals (TXs), are afflicted by negative '
+         'psychosocial stressors. Central to the psychological complex of TXs '
+         'is the conviction of belonging to the opposite sex. Neuroanatomical '
+         'and functional brain imaging studies have demonstrated that the GID '
+         'is associated with brain alterations. **In this study, we found that '
+         'TXs identify, when viewing male-female couples in erotic or '
+         'non-erotic (“neutral”) interactions, with the couple member of the '
+         'desired gender in both situations.** By means of functional magnetic '
+         'resonance imaging, we found that the TXs, as opposed to controls '
+         '(CONs), displayed an increased functional connectivity between the '
+         'ventral tegmental area, which is associated with dimorphic genital '
+         'representation, and anterior cingulate cortex subregions, which play '
+         'a key role in social exclusion, conflict monitoring and punishment '
+         'adjustment. The neural connectivity pattern suggests a brain '
+         'signature of the psychosocial distress for the gender-sex '
+         'incongruity of TXs.   Note: Another porn study.  &#x200B;  '
+         '[http://www.ncbi.nlm.nih.gov/pubmed/25392513](http://www.ncbi.nlm.nih.gov/pubmed/25392513)  '
+         '> Biological causes underpinning the well known gender dimorphisms '
+         'in human behavior, cognition, and emotion have received increased '
+         'attention in recent years. The advent of diffusion-weighted magnetic '
+         'resonance imaging has permitted the investigation of the white '
+         'matter microstructure in unprecedented detail. Here, we aimed to '
+         'study the potential influences of biological sex, gender identity, '
+         'sex hormones, and sexual orientation on white matter microstructure '
+         'by investigating transsexuals and healthy controls using diffusion '
+         'tensor imaging (DTI). Twenty-three female-to-male (FtM) and 21 '
+         'male-to-female (MtF) transsexuals, as well as 23 female (FC) and 22 '
+         'male (MC) controls underwent DTI at 3 tesla. Fractional anisotropy, '
+         'axial, radial, and mean diffusivity were calculated using '
+         'tract-based spatial statistics (TBSS) and fiber tractography. '
+         '**Results showed widespread significant differences in mean '
+         'diffusivity between groups in almost all white matter tracts. FCs '
+         'had highest mean diffusivities, followed by FtM transsexuals with '
+         'lower values, MtF transsexuals with further reduced values, and MCs '
+         'with lowest values.** Investigating axial and radial diffusivities '
+         'showed that a transition in axial diffusivity accounted for mean '
+         'diffusivity results. No significant differences in fractional '
+         'anisotropy maps were found between groups. Plasma testosterone '
+         'levels were strongly correlated with mean, axial, and radial '
+         'diffusivities. However, **controlling for individual estradiol, '
+         "testosterone, or progesterone plasma levels or for subjects' sexual "
+         'orientation did not change group differences.** Our data harmonize '
+         'with the hypothesis that fiber tract development is influenced by '
+         'the hormonal environment during late prenatal and early postnatal '
+         'brain development.   &#x200B;  '
+         '[http://cercor.oxfordjournals.org/content/early/2014/09/12/cercor.bhu194.long](http://cercor.oxfordjournals.org/content/early/2014/09/12/cercor.bhu194.long)  '
+         '>Although previous investigations of transsexual people have focused '
+         'on regional brain alterations, evaluations on a network level, '
+         'especially those structural in nature, are largely missing. '
+         'Therefore, we investigated the structural connectome of 23 '
+         'female-to-male (FtM) and 21 male-to-female (MtF) transgender '
+         'patients before hormone therapy as compared with 25 female and 25 '
+         'male healthy controls. Graph theoretical analysis of whole-brain '
+         'probabilistic tractography networks (adjusted for differences in '
+         'intracranial volume) showed decreased hemispheric connectivity '
+         'ratios of subcortical/limbic areas for both transgender groups. '
+         'Subsequent analysis revealed that this finding was driven by '
+         'increased interhemispheric lobar connectivity weights (LCWs) in '
+         '**MtF transsexuals and decreased intrahemispheric LCWs in FtM '
+         'patients. This was further reflected on a regional level, where the '
+         'MtF group showed mostly increased local efficiencies and FtM '
+         'patients decreased values.** Importantly, these parameters separated '
+         'each patient group from the remaining subjects for the majority of '
+         'significant findings. This work complements previously established '
+         'regional alterations with important findings of structural '
+         'connectivity. Specifically, our data suggest that network parameters '
+         'may reflect unique characteristics of transgender patients, whereas '
+         'local physiological aspects have been shown to represent the '
+         'transition from the biological sex to the actual gender identity.   '
+         '&#x200B;  '
+         '[http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0085914](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0085914)  '
+         '> Body image is the internal representation of an individual’s own '
+         'physical appearance. Individuals with gender identity disorder '
+         '(GID), commonly referred to as transsexuals (TXs), are unable to '
+         'form a satisfactory body image due to the dissonance between their '
+         'biological sex and gender identity. We reasoned that changes in the '
+         'resting-state functional connectivity (rsFC) network would '
+         'neurologically reflect such experiential incongruence in TXs. Using '
+         'graph theory-based network analysis, we investigated the regional '
+         'changes of the degree centrality of the rsFC network. The degree '
+         'centrality is an index of the functional importance of a node in a '
+         'neural network. We hypothesized that three key regions of the body '
+         'representation network, i.e., the primary somatosensory cortex, the '
+         'superior parietal lobule and the insula, would show a higher degree '
+         'centrality in TXs. Twenty-three pre-treatment TXs (11 male-to-female '
+         'and 12 female-to-male TXs) as one psychosocial group and 23 '
+         'age-matched healthy cissexual control subjects (CISs, 11 males and '
+         '12 females) were recruited. Resting-state functional magnetic '
+         'resonance imaging was performed, and binarized rsFC networks were '
+         'constructed. The TXs demonstrated a significantly higher degree '
+         'centrality in the bilateral superior parietal lobule and the primary '
+         'somatosensory cortex. In addition, the connectivity between the '
+         'right insula and the bilateral primary somatosensory cortices was '
+         'negatively correlated with the selfness rating of their desired '
+         'genders. **These data indicate that the key components of body '
+         'representation manifest in TXs as critical function hubs in the rsFC '
+         'network. The negative association may imply a coping mechanism that '
+         'dissociates bodily emotion from body image. The changes in the '
+         'functional connectome may serve as representational markers for the '
+         'dysphoric bodily self of TXs.**   Note: Again we can see that these '
+         'experiences that trans people have are absolutely real and '
+         'observable.',
+ 'comment': "Comment(id='ey1gfm3')",
+ 'link': 'https://reddit.com/r/GCdebatesQT/comments/cuy0jv/a_comprehensive_list_of_brain_gender_studies/ey1gfm3/',
+ 'post': 'A comprehensive list of brain gender studies',
+ 'subreddit': "Subreddit(display_name='GCdebatesQT')",
+ 'trans_match': "<_sre.SRE_Match object; span=(173, 188), match='gender identity'>"},
+{'body': ' Uuuuh I don’t think 8 year olds know what being transgender is.',
+ 'comment': "Comment(id='ey1gnow')",
+ 'link': 'https://reddit.com/r/insanepeoplefacebook/comments/cv1yrt/the_uptick_in_clinical_depression_is_caused_by/ey1gnow/',
+ 'post': 'The uptick in clinical depression is caused by trans 8 year olds '
+         'getting hormone therapy, confirmed.',
+ 'subreddit': "Subreddit(display_name='insanepeoplefacebook')",
+ 'trans_match': "<_sre.SRE_Match object; span=(49, 60), match='transgender'>"},
+{'body': '[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4037295/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4037295/)  '
+         '> The odorous steroid androstadienone, a putative male chemo-signal, '
+         'was previously reported to evoke sex differences in hypothalamic '
+         'activation in adult heterosexual men and women. In order to '
+         'investigate whether puberty modulated this sex difference in '
+         'response to androstadienone, we measured the hypothalamic '
+         'responsiveness to this chemo-signal in 39 pre-pubertal and 41 '
+         'adolescent boys and girls by means of functional magnetic resonance '
+         'imaging. We then investigated whether 36 pre-pubertal children and '
+         '38 adolescents diagnosed with gender dysphoria (GD; DSM-5) exhibited '
+         'sex-atypical (in accordance with their experienced gender), rather '
+         'than sex-typical (in accordance with their natal sex) hypothalamic '
+         'activations during olfactory stimulation with androstadienone. We '
+         'found that the sex difference in responsiveness to androstadienone '
+         'was already present in pre-pubertal control children and thus likely '
+         'developed during early perinatal development instead of during '
+         'sexual maturation. **Adolescent girls and boys with GD both '
+         'responded remarkably like their experienced gender, thus '
+         'sex-atypical. In contrast, pre-pubertal girls with GD showed neither '
+         'a typically male nor female hypothalamic activation pattern and '
+         'pre-pubertal boys with GD had hypothalamic activations in response '
+         'to androstadienone that were similar to control boys, thus '
+         'sex-typical.** We present here a unique data set of boys and girls '
+         'diagnosed with GD at two different developmental stages, showing '
+         'that these children possess certain sex-atypical functional brain '
+         'characteristics and may have undergone atypical sexual '
+         'differentiation of the brain.   Note: This is a reaction to a male '
+         "chemosignal. This study does not mention if the subjects' sexuality "
+         'was controlled-for (e.g. If any male subjects were homosexual).  '
+         '&#x200B;  '
+         '[http://www.ncbi.nlm.nih.gov/pubmed/23224294](http://www.ncbi.nlm.nih.gov/pubmed/23224294)  '
+         '> The serotonergic system modulates brain functions that are '
+         'considered to underlie affective states, emotion and cognition. '
+         'Several lines of evidence point towards a strong lateralization of '
+         'these mental processes, which indicates similar asymmetries in '
+         'associated neurotransmitter systems. Here, our aim was to '
+         'investigate a potential asymmetry of the serotonin transporter '
+         'distribution using positron emission tomography and the radioligand '
+         '\\[(11)C\\]DASB in vivo. As brain asymmetries may differ between '
+         'sexes, we further aimed to compare serotonin transporter asymmetry '
+         'between females, males and male-to-female (MtF) transsexuals whose '
+         'brains are considered to be partly feminized. Voxel-wise analysis of '
+         'serotonin transporter binding in all groups showed both strong left '
+         'and rightward asymmetries in several cortical and subcortical '
+         'structures including temporal and frontal cortices, anterior '
+         'cingulate, hippocampus, caudate and thalamus. **Further, male '
+         'controls showed a rightward asymmetry in the midcingulate cortex, '
+         'which was absent in females and MtF transsexuals.** The present data '
+         'support the notion of a lateralized serotonergic system, which is in '
+         'line with previous findings of asymmetric serotonin-1A receptor '
+         'distributions, extracellular serotonin concentrations, serotonin '
+         'turnover and uptake. The absence of serotonin transporter asymmetry '
+         'in the midcingulate in MtF transsexuals may be attributed to an '
+         'absence of brain masculinization in this region.   &#x200B;  '
+         '[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585501/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585501/)  '
+         '>**Although previous investigations of transsexual people have '
+         'focused on regional brain alterations, evaluations on a network '
+         'level, especially those structural in nature, are largely missing.** '
+         'Therefore, we investigated the structural connectome of 23 '
+         'female-to-male (FtM) and 21 male-to-female (MtF) transgender '
+         'patients before hormone therapy as compared with 25 female and 25 '
+         'male healthy controls. Graph theoretical analysis of whole-brain '
+         'probabilistic tractography networks (adjusted for differences in '
+         'intracranial volume) showed decreased hemispheric connectivity '
+         'ratios of subcortical/limbic areas for both transgender groups. '
+         'Subsequent analysis revealed that this finding was driven by '
+         'increased interhemispheric lobar connectivity weights (LCWs) in MtF '
+         'transsexuals and decreased intrahemispheric LCWs in FtM patients. '
+         'This was further reflected on a regional level, where the MtF group '
+         'showed mostly increased local efficiencies and FtM patients '
+         'decreased values. Importantly, these parameters separated each '
+         'patient group from the remaining subjects for the majority of '
+         'significant findings. This work complements previously established '
+         'regional alterations with important findings of structural '
+         'connectivity. **Specifically, our data suggest that network '
+         'parameters may reflect unique characteristics of transgender '
+         'patients,** whereas local physiological aspects have been shown to '
+         'represent the transition from the biological sex to the actual '
+         'gender identity.   &#x200B;  '
+         '[http://www.ncbi.nlm.nih.gov/pubmed/25720349](http://www.ncbi.nlm.nih.gov/pubmed/25720349)  '
+         '> The sexual differentiation of the brain is primarily driven by '
+         'gonadal hormones during fetal development. Leading theories on the '
+         'etiology of gender dysphoria (GD) involve deviations herein. To '
+         'examine whether there are signs of a sex-atypical brain development '
+         'in GD, we quantified regional neural gray matter (GM) volumes in 55 '
+         'female-to-male and 38 male-to-female adolescents, 44 boys and 52 '
+         'girls without GD and applied both univariate and multivariate '
+         'analyses. In girls, more GM volume was observed in the left superior '
+         'medial frontal cortex, while boys had more volume in the bilateral '
+         'superior posterior hemispheres of the cerebellum and the '
+         'hypothalamus. Regarding the GD groups, at whole-brain level they '
+         'differed only from individuals sharing their gender identity but not '
+         'from their natal sex. Accordingly, using multivariate pattern '
+         'recognition analyses, the GD groups could more accurately be '
+         'automatically discriminated from individuals sharing their gender '
+         'identity than those sharing their natal sex based on spatially '
+         'distributed GM patterns. However, region of interest analyses '
+         'indicated less GM volume in the right cerebellum and more volume in '
+         'the medial frontal cortex in female-to-males in comparison to girls '
+         'without GD, while male-to-females had less volume in the bilateral '
+         'cerebellum and hypothalamus than natal boys. Deviations from the '
+         'natal sex within sexually dimorphic structures were also observed in '
+         'the untreated subsamples. **Our findings thus indicate that GM '
+         'distribution and regional volumes in GD adolescents are largely in '
+         'accordance with their respective natal sex. However, there are '
+         'subtle deviations from the natal sex in sexually dimorphic '
+         'structures, which can represent signs of a partial sex-atypical '
+         'differentiation of the brain.**   &#x200B;  '
+         '[http://www.ncbi.nlm.nih.gov/pubmed/26766406](http://www.ncbi.nlm.nih.gov/pubmed/26766406)  '
+         '> The current review gives an overview of brain studies in '
+         'transgender people. First, we describe studies into the aetiology of '
+         'feelings of gender incongruence, primarily addressing the sexual '
+         'differentiation hypothesis: does the brain of transgender '
+         'individuals resemble that of their natal sex, or that of their '
+         'experienced gender? Findings from neuroimaging studies focusing on '
+         'brain structure suggest that the brain phenotypes of trans women '
+         '(MtF) and trans men (FtM) differ in various ways from control men '
+         'and women with feminine, masculine, demasculinized and defeminized '
+         'features. **The brain phenotypes of people with feelings of gender '
+         'incongruence may help us to figure out whether sex differentiation '
+         'of the brain is atypical in these individuals, and shed light on '
+         'gender identity development.** Task-related imaging studies may show '
+         'whether brain activation and task performance in transgender people '
+         'is sex-atypical. Second, we review studies that evaluate the effects '
+         'of cross-sex hormone treatment on the brain. This type of research '
+         'provides knowledge on how changes in sex hormone levels may affect '
+         'brain structure and function.   Note: This is a review, not a '
+         'research study.',
+ 'comment': "Comment(id='ey1go21')",
+ 'link': 'https://reddit.com/r/GCdebatesQT/comments/cuy0jv/a_comprehensive_list_of_brain_gender_studies/ey1go21/',
+ 'post': 'A comprehensive list of brain gender studies',
+ 'subreddit': "Subreddit(display_name='GCdebatesQT')",
+ 'trans_match': "<_sre.SRE_Match object; span=(2636, 2639), match='MtF'>"},
+{'body': 'So many comments here being faggot. We really love ourselves huh 😂',
+ 'comment': "Comment(id='ey1h974')",
+ 'link': 'https://reddit.com/r/popheads/comments/cv1u3j/gaga_tweets_f/ey1h974/',
+ 'post': "Gaga tweets 'f'... 👀",
+ 'subreddit': "Subreddit(display_name='popheads')",
+ 'trans_match': "<_sre.SRE_Match object; span=(28, 34), match='faggot'>"},
+{'body': 'You mean transgender woman. You refer to the sex they are going for. '
+         'Not what they once were.',
+ 'comment': "Comment(id='ey1hcda')",
+ 'link': 'https://reddit.com/r/funny/comments/cuy1c8/nsfw_good_lad_george/ey1hcda/',
+ 'post': 'NSFW Good Lad George!',
+ 'subreddit': "Subreddit(display_name='funny')",
+ 'trans_match': "<_sre.SRE_Match object; span=(9, 20), match='transgender'>"},
+{'body': '**PLEASE READ THIS MESSAGE IN ITS ENTIRETY BEFORE TAKING ACTION.**  '
+         'Hi there, your post has been removed for one of the following '
+         'reasons:   * [Rule '
+         '3:](https://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_3-) You '
+         'must phrase the question to require more of an explanation than just '
+         '"yes" or "no".  * [Rule '
+         '3:](https://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_3-) '
+         'Questions with a single correct answer, that can be researched '
+         'elsewhere are not allowed on AskReddit.  * [Rule '
+         '1:](http://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_1-) You '
+         'must post a clear and direct question in the title.  *The question '
+         'must be a full sentence*.  Try including question phrases like "What '
+         'is...", "What are...".  If you have any queries or concerns, please '
+         'feel free to [contact the '
+         'mods](<http://www.reddit.com/message/compose?to=%2Fr%2FAskReddit&subject=Yes/No+Related+Post+Review+Request&message=My+post+was+removed,+automoderator+said+Rule+1+or+3,+please '
+         'review%3a%0d%0a%0d%0ahttp%3A%2F%2Fwww.reddit.com/r/AskReddit/comments/cv2sj7/are_transgendered_people_legally_obligated_to/>). '
+         'Thank you.   *I am a bot, and this action was performed '
+         'automatically. Please [contact the moderators of this '
+         'subreddit](/message/compose/?to=/r/AskReddit) if you have any '
+         'questions or concerns.*',
+ 'comment': "Comment(id='ey1hdpe')",
+ 'link': 'https://reddit.com/r/AskReddit/comments/cv2sj7/are_transgendered_people_legally_obligated_to/ey1hdpe/',
+ 'post': 'Are transgendered people legally obligated to disclose their '
+         'biological sex to prospective partners? Should they?',
+ 'subreddit': "Subreddit(display_name='AskReddit')",
+ 'trans_match': "<_sre.SRE_Match object; span=(1043, 1054), match='transgender'>"},
+{'body': 'The only one I can remember off hand is (cw: outdated terminology) '
+         '[a study of trans men that mentions trans women in '
+         'passing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357597/) but '
+         "I know there are others out there. I'm sorry I can't be more "
+         'helpful.     Also no pun intended.',
+ 'comment': "Comment(id='ey1hvfh')",
+ 'link': 'https://reddit.com/r/traaNSFW/comments/ctxxzs/how_many_people_feel_like_they_have_boobs_when/ey1hvfh/',
+ 'post': "How many people... feel like they have boobs when they don't?",
+ 'subreddit': "Subreddit(display_name='traaNSFW')",
+ 'trans_match': "<_sre.SRE_Match object; span=(79, 88), match='trans men'>"},
+{'body': 'Do you mean transgender or transsexual?',
+ 'comment': "Comment(id='ey1i802')",
+ 'link': 'https://reddit.com/r/AskReddit/comments/cv2txa/what_would_you_do_if_you_found_out_the_person_you/ey1i802/',
+ 'post': 'What would you do if you found out the person you are dating is a '
+         'transgendered person and they never disclosed it to you until after '
+         'you had sex?',
+ 'subreddit': "Subreddit(display_name='AskReddit')",
+ 'trans_match': "<_sre.SRE_Match object; span=(12, 23), match='transgender'>"},
+{'body': 'Traps arent trans women op',
+ 'comment': "Comment(id='ey1it8z')",
+ 'link': 'https://reddit.com/r/DeliciousTraps/comments/cuu015/i_want_to_be_her_artist_dross/ey1it8z/',
+ 'post': 'I want to be her🤤. Artist: Dross',
+ 'subreddit': "Subreddit(display_name='DeliciousTraps')",
+ 'trans_match': "<_sre.SRE_Match object; span=(12, 23), match='trans women'>"}, 
