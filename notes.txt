@@ -12,6 +12,13 @@ Ideas on scrapping:
     - Parent comments
     - User comments
     - Subreddit comments
+	
+Features:
+- Bag-of-words counts
+- Subreddit
+- Features of parent comment
+- Features of submission
+
 
 - CERF bot:  TERF comments with the "trans" and "cis" roles reversed
 - TERFometer:  Assigns a percentage to a comment indicating how TERFy it is
