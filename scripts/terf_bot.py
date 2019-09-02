@@ -16,11 +16,11 @@ trans_keywords = "|".join(["gender[ -]identity",
                      "mtf", "ftm",
                      "identif(ies|y|ying) as",
                      "contrapoints"])
-slur_keywords = "|".join(["trann(y|ies)", "attack helicopter", "only ([0-9]+|two) genders", "i identify as", "faggot", "^tim[s]?$", "^tif[s]?$", "agp[s]?"])
+slur_keywords = "|".join(["trann(y|ies)", "attack helicopter", "only ([0-9]+|two) genders", "faggot", "^tim[s]?$", "^tif[s]?$", "agp[s]?"])
 
 class TERFBot(RedditBot.RedditBot):
 
-    def __init__(self, name = "terf-bot", subreddit = "all", keywords = trans_keywords + slur_keywords):
+    def __init__(self, name = "terf-bot", subreddit = "all", keywords = trans_keywords + "|" + slur_keywords):
 
         # create Reddit instance
         with open("../../data/credentials.txt", 'r') as login_credentials:
@@ -48,13 +48,13 @@ class TERFBot(RedditBot.RedditBot):
             if str(comment) not in self.comments["id"]:
                 features = {"id": str(comment),
                             "body": comment.body,
-                            "trans_match": re.search(self.keywords, comment.body.lower()),
+                            "match": re.match(self.keywords, comment.body.lower()),
                             "parent": str(comment.parent()),
                             "subreddit": str(comment.subreddit),
                             "post": comment.submission.title,
                             "link": "https://reddit.com" + comment.permalink}
-                if features["trans_match"]:
-                    features["trans_match"] = features["trans_match"].apply(lambda m: m.group(0).strip() if m else "")
+                if features["match"]:
+                    features["match"] = features["match"].apply(lambda m: m.group(0).strip() if m else "")
                 self.comments = self.comments.append(features, ignore_index = True)
                 pprint(features)
 
@@ -69,10 +69,11 @@ class TERFBot(RedditBot.RedditBot):
                 features = {"id": str(comment),
                             "title": comment.title,
                             "selftext": comment.selftext,
-                            "trans_match": re.search(self.keywords, (comment.title + "\n" + comment.selftext).lower()),
+                            "match": re.match(self.keywords, (comment.title + "\n" + comment.selftext).lower()),
                             "subreddit": str(comment.subreddit),
                             "link": "https://reddit.com" + comment.permalink}
-                features["trans_match"] = features["trans_match"].apply(lambda m: m.group(0).strip() if m else "")
+                if features["match"]:
+                    features["match"] = features["match"].apply(lambda m: m.group(0).strip() if m else "")
                 self.posts = self.posts.append(features, ignore_index = True)
                 pprint(features)
         else:
@@ -83,8 +84,15 @@ class TERFBot(RedditBot.RedditBot):
         return re.search(self.keywords, comment.body.lower())
 
     def load(self):
-        self.comments = pandas.read_csv("../data/" + str(self.subreddit) + "_comments.csv")
-        self.posts = pandas.read_csv("../data/" + str(self.subreddit) + "_posts.csv")
+        try:
+            self.comments = pandas.read_csv("../data/" + str(self.subreddit) + "_comments.csv")
+        except Exception:
+            print("Unable to load comments from " + self.subreddit)
+
+        try:
+            self.posts = pandas.read_csv("../data/" + str(self.subreddit) + "_posts.csv")
+        except Exception:
+            print("Unable to load posts from " + self.subreddit)
 
     def save(self):
         if self.comments:
@@ -93,8 +101,8 @@ class TERFBot(RedditBot.RedditBot):
         if self.posts:
             self.posts.to_csv("../data/" + str(self.subreddit) + "_posts.csv", index=False)
 
-    def scrape_subreddit(self, subreddit_name, post_limit = 100):
-        subreddit = self.reddit.subreddit(subreddit_name)
+    def scrape_subreddit(self, post_limit = 100):
+        subreddit = self.subreddit
         top_posts = list(subreddit.top(time_filter='year', limit=post_limit))
 
         extract_features = lambda p: {
@@ -103,21 +111,17 @@ class TERFBot(RedditBot.RedditBot):
                     "title": p.title,
                     "ups": p.ups,
                     "selftext": p.selftext,
-                    "trans_match": re.search(self.keywords, (p.title + "\n" + p.selftext).lower()),
+                    "matches": re.match(self.keywords, (p.title + "\n" + p.selftext).lower()),
                     "subreddit": str(p.subreddit),
                     "link": "https://reddit.com" + p.permalink}
 
         sub_df = pandas.DataFrame(list(map(extract_features, top_posts)))
 
-
         sub_df["post"].apply(lambda p: p.comments.replace_more(limit = 0))
-        sub_df["comments"] = sub_df["post"].apply(lambda p: list(p.comments))
+        sub_df["comments"] = sub_df["post"].apply(lambda p: list(map(lambda c: c.body.lower(), p.comments)))
 
         # Extract keyword matches at the post- and comment-level
-        sub_df["trans_match"] = sub_df["trans_match"].apply(lambda m: m.group(0).strip() if m else "")
-        sub_df["comment_matches"] = sub_df["comments"].apply(lambda c_list: list(
-            map(lambda m: m.group(0), filter(None.__ne__, map(lambda c: re.search(self.keywords, c.lower()), c_list)))))
-        sub_df["matches"] = sub_df.apply(lambda r: list(filter(lambda s: s != "", r["comment_matches"] + [r["trans_match"]])), axis=1)
+        sub_df["matches"] = sub_df.apply(lambda r: r["matches"] + sum(map(lambda c: re.findall(self.keywords, c),r["comments"]), []), axis = 1)
         sub_df["trans"] = sub_df["matches"].apply(lambda l: l != [])
 
 
@@ -128,8 +132,6 @@ class TERFBot(RedditBot.RedditBot):
         #       sum(sub_df[sub_df["trans_match"].notna()]["ups"]) / sum(sub_df["ups"]))
 
         return sub_df
-
-
 
     def scan(self, stream=None):
         for comment in self.subreddit.stream.comments():
