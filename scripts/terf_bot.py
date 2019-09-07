@@ -1,4 +1,5 @@
 import traceback
+import time
 
 import praw
 import pandas
@@ -36,114 +37,85 @@ class TERFBot(RedditBot.RedditBot):
         super().set_mechanic("1st_transit_of_venus")
 
         self.keywords = keywords
+        self.regex = re.compile(self.keywords)
 
-        if subreddit == "all":
-            self.load()
-        else:
-            self.comments = None
-            self.posts = None
+        self.comments = pandas.DataFrame({})
+        self.posts = pandas.DataFrame({})
+
+    def extract_matches(self, string):
+        return list(map(lambda m: m.group(0) if m else "", self.regex.finditer(string.lower())))
+
+    def extract_post_features(self, post):
+        post_features = {
+            "post": post,
+            "id": str(post),
+            "title": post.title,
+            "selftext": post.selftext,
+            "score": post.score,
+            "matches": self.extract_matches((post.title + "\n" + post.selftext)),
+            "subreddit": str(post.subreddit),
+            "link": "https://reddit.com" + post.permalink}
+
+        return post_features
+
+    def extract_comment_features(self, comment):
+        comment_features = {
+                    "comment": comment,
+                    "id": str(comment),
+                    "post_id": str(comment.submission),
+                    "body": comment.body,
+                    "score": comment.score,
+                    "search": self.extract_matches(comment.body),
+                    "parent": str(comment.parent()),
+                    "subreddit": str(comment.subreddit),
+                    "link": "https://reddit.com" + comment.permalink}
+
+        return comment_features
 
     def extract_features(self, comment):
-        if len(str(comment))==7:
-            if str(comment) not in self.comments["id"]:
-                features = {"id": str(comment),
-                            "body": comment.body,
-                            "match": re.match(self.keywords, comment.body.lower()),
-                            "parent": str(comment.parent()),
-                            "subreddit": str(comment.subreddit),
-                            "post": comment.submission.title,
-                            "link": "https://reddit.com" + comment.permalink}
-                if features["match"]:
-                    features["match"] = features["match"].apply(lambda m: m.group(0).strip() if m else "")
-                self.comments = self.comments.append(features, ignore_index = True)
-                pprint(features)
-
-                #recurses until the parent submission is reached
-                if features["parent"] not in self.comments["id"]:
-                    self.extract_features(comment.parent())
-
-                return features
-        elif len(str(comment))==6:
-            # In this case, the "parent comment" is the post itself and can be treated as such.
-            if str(comment) not in self.posts["id"]:
-                features = {"id": str(comment),
-                            "title": comment.title,
-                            "selftext": comment.selftext,
-                            "match": re.match(self.keywords, (comment.title + "\n" + comment.selftext).lower()),
-                            "subreddit": str(comment.subreddit),
-                            "link": "https://reddit.com" + comment.permalink}
-                if features["match"]:
-                    features["match"] = features["match"].apply(lambda m: m.group(0).strip() if m else "")
-                self.posts = self.posts.append(features, ignore_index = True)
-                pprint(features)
-        else:
-            return None
+        features = self.extract_comment_features(comment)
+        self.comments = self.comments.append(features, ignore_index = True)
 
     # clean up the nested ifs yuck
-    def should_respond(self, comment):
-        return re.search(self.keywords, comment.body.lower())
-
-    def load(self):
-        try:
-            self.comments = pandas.read_csv("../data/" + str(self.subreddit) + "_comments.csv")
-        except Exception:
-            print("Unable to load comments from " + self.subreddit)
-
-        try:
-            self.posts = pandas.read_csv("../data/" + str(self.subreddit) + "_posts.csv")
-        except Exception:
-            print("Unable to load posts from " + self.subreddit)
-
-    def save(self):
-        if self.comments:
-            self.comments.to_csv("../data/" + str(self.subreddit) + "_comments.csv", index=False)
-
-        if self.posts:
-            self.posts.to_csv("../data/" + str(self.subreddit) + "_posts.csv", index=False)
+    def should_extract(self, comment):
+        return re.search(self.keywords, comment.body.lower()) and (str(comment) not in self.comments["id"])
 
     def scrape_subreddit(self, post_limit = 100):
-        subreddit = self.subreddit
-        top_posts = list(subreddit.top(time_filter='year', limit=post_limit))
+        print("Scrapping posts...")
+        top_posts = list(self.subreddit.top(time_filter='year', limit=post_limit))
 
-        extract_features = lambda p: {
-                    "post": p,
-                    "id": str(p),
-                    "title": p.title,
-                    "ups": p.ups,
-                    "selftext": p.selftext,
-                    "matches": re.match(self.keywords, (p.title + "\n" + p.selftext).lower()),
-                    "subreddit": str(p.subreddit),
-                    "link": "https://reddit.com" + p.permalink}
+        print("Extracting features...")
+        self.posts = pandas.DataFrame(list(map(self.extract_post_features, top_posts)))
 
-        sub_df = pandas.DataFrame(list(map(extract_features, top_posts)))
-
-        sub_df["post"].apply(lambda p: p.comments.replace_more(limit = 0))
-        sub_df["comments"] = sub_df["post"].apply(lambda p: list(map(lambda c: c.body.lower(), p.comments)))
+        print("Extracting top comments...")
+        self.posts["post"].apply(lambda p: p.comments.replace_more(limit = 0))
+        self.posts["comments"] = self.posts["post"].apply(lambda p: list(map(lambda c: c.body, p.comments)))
 
         # Extract keyword matches at the post- and comment-level
-        sub_df["matches"] = sub_df.apply(lambda r: r["matches"] + sum(map(lambda c: re.findall(self.keywords, c),r["comments"]), []), axis = 1)
-        sub_df["trans"] = sub_df["matches"].apply(lambda l: l != [])
+        print("Finding keyword matches...")
+        self.posts["matches"] = self.posts.apply(lambda r: r["matches"] + list(map(self.extract_matches, r["comments"])), axis = 1)
+        self.posts["trans"] = self.posts["matches"].apply(lambda l: l != [])
 
-
-        # print("Percentage of posts addressing trans people:  ", len(sub_df[sub_df["trans_match"].notna()]) / len(sub_df))
-        # print("Percentage of comments on posts addressing trans people:  ",
-        #       sum(sub_df[sub_df["trans_match"].notna()]["num_comments"]) / sum(sub_df["num_comments"]))
-        # print("Percentage of upvotes on posts addressing trans people:  ",
-        #       sum(sub_df[sub_df["trans_match"].notna()]["ups"]) / sum(sub_df["ups"]))
-
-        return sub_df
+        print("Scrapping successful...")
 
     def scan(self, stream=None):
         for comment in self.subreddit.stream.comments():
             try:
-                # check if we should respond
-                if self.should_respond(comment):
-                    features = self.extract_features(comment)
-                    if features:
-                        self.save()
+                if self.should_extract(comment):
+                    self.extract_features(comment)
+
+                    # extract parent comment features for context, whether they match keywords or not
+                    parent = comment.parent()
+                    while str(parent) not in self.comments["id"] and len(str(parent)) == 7:
+                        self.extract_features(parent)
+                        parent = parent.parent()
+
+                    # extract post details
+                    if str(comment.submission) not in self.posts["id"]:
+                        self.posts = self.posts.append(self.extract_post_features(comment.submission))
             except Exception as e:
                 print("##### ERROR #####")
-                print(e)
+                print(e.__traceback__)
 
 if __name__ == "__main__":
     terf = TERFBot()
