@@ -11,17 +11,16 @@ import re
 from pprint import pprint
 
 trans_keywords = "|".join(["gender[ -]identity",
-                    "^cis",
-                     "trans[ -]?(phobi[ac]|gender|girl|wom[aey]n|m[ae]n|boy|[s]?exual)",
+                     "([\b]?cis[\b]?|trans)[ -]?(phobi[ac]|gender|girl|wom[aey]n|m[ae]n|boy|[s]?exual)",
                      "non[ -]?binary", "enb(y|ies)",
                      "mtf", "ftm",
-                     "identif(ies|y|ying) as",
+                     #"identif(ies|y|ying) as",
                      "contrapoints"])
-slur_keywords = "|".join(["trann(y|ies)", "attack helicopter", "only ([0-9]+|two) genders", "faggot", "^tim[s]?$", "^tif[s]?$", "agp[s]?"])
+slur_keywords = "|".join(["trann(y|ies)", "attack helicopter", "only ([0-9]+|two) genders", "faggot", "agp[s]?", "autogynephilia"])
 
 class TERFBot(RedditBot.RedditBot):
 
-    def __init__(self, name = "terf-bot", subreddit = "all", keywords = trans_keywords + "|" + slur_keywords):
+    def __init__(self, name = "terf-bot", subreddit = "gendercritical", keywords = trans_keywords + "|" + slur_keywords):
 
         # create Reddit instance
         with open("../../data/credentials.txt", 'r') as login_credentials:
@@ -46,16 +45,30 @@ class TERFBot(RedditBot.RedditBot):
         return list(map(lambda m: m.group(0) if m else "", self.regex.finditer(string.lower())))
 
     def extract_post_features(self, post):
+        print("Scrapping post " + str(post) + "...")
+        print("Extracting basic features...")
         post_features = {
             "post": post,
             "id": str(post),
             "title": post.title,
             "selftext": post.selftext,
             "score": post.score,
+            "comments": [],
             "matches": self.extract_matches((post.title + "\n" + post.selftext)),
             "subreddit": str(post.subreddit),
             "link": "https://reddit.com" + post.permalink}
 
+        print("Extracting comments...")
+        # Extract comments and get keyword matches
+        post.comments.replace_more(limit = 0)
+        for c in post.comments:
+            post_features["comments"].append(c.body)
+            post_features["matches"] += self.extract_matches(c.body)
+
+        # Label a post as "trans" if either the post body or comments match keywords
+        post_features["trans"] = bool(post_features["matches"])
+
+        print("======================")
         return post_features
 
     def extract_comment_features(self, comment):
@@ -72,6 +85,7 @@ class TERFBot(RedditBot.RedditBot):
 
         return comment_features
 
+
     def extract_features(self, comment):
         features = self.extract_comment_features(comment)
         self.comments = self.comments.append(features, ignore_index = True)
@@ -82,21 +96,14 @@ class TERFBot(RedditBot.RedditBot):
 
     def scrape_subreddit(self, post_limit = 100):
         print("Scrapping posts...")
-        top_posts = list(self.subreddit.top(time_filter='year', limit=post_limit))
+        top_posts = self.subreddit.top(time_filter='year', limit=post_limit)
 
         print("Extracting features...")
+        print("======================")
         self.posts = pandas.DataFrame(list(map(self.extract_post_features, top_posts)))
 
-        print("Extracting top comments...")
-        self.posts["post"].apply(lambda p: p.comments.replace_more(limit = 0))
-        self.posts["comments"] = self.posts["post"].apply(lambda p: list(map(lambda c: c.body, p.comments)))
-
-        # Extract keyword matches at the post- and comment-level
-        print("Finding keyword matches...")
-        self.posts["matches"] = self.posts.apply(lambda r: r["matches"] + list(map(self.extract_matches, r["comments"])), axis = 1)
-        self.posts["trans"] = self.posts["matches"].apply(lambda l: l != [])
-
         print("Scrapping successful...")
+        return self.posts
 
     def scan(self, stream=None):
         for comment in self.subreddit.stream.comments():
