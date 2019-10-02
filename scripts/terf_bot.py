@@ -34,6 +34,7 @@ class TERFBot(RedditBot.RedditBot):
         super().set_name(name)
 
         super().set_subreddit(subreddit)
+        self.subreddit_name = subreddit
         super().set_mechanic("1st_transit_of_venus")
 
         self.keywords = keywords
@@ -41,6 +42,15 @@ class TERFBot(RedditBot.RedditBot):
 
         self.comments = pandas.DataFrame({})
         self.posts = pandas.DataFrame({})
+
+    def save(self):
+        stamp = str(int(time.time()))
+
+        if not self.comments.empty:
+            self.comments.to_csv("../data/" + self.subreddit_name + "_comments_" + stamp + ".csv")
+
+        if not self.posts.empty:
+            self.posts.to_csv("../data/" + self.subreddit_name + "_posts_" + stamp + ".csv")
 
     def extract_matches(self, string):
         return list(map(lambda m: m.group(0) if m else "", self.regex.finditer(string.lower())))
@@ -65,7 +75,7 @@ class TERFBot(RedditBot.RedditBot):
                     "post_id": str(comment.submission),
                     "body": comment.body,
                     "score": comment.score,
-                    "search": self.extract_matches(comment.body),
+                    "matches": self.extract_matches(comment.body),
                     "parent": str(comment.parent()),
                     "subreddit": str(comment.subreddit),
                     "link": "https://reddit.com" + comment.permalink}
@@ -74,13 +84,14 @@ class TERFBot(RedditBot.RedditBot):
 
     def extract_features(self, comment):
         features = self.extract_comment_features(comment)
+
         self.comments = self.comments.append(features, ignore_index = True)
 
     # clean up the nested ifs yuck
     def should_extract(self, comment):
         return re.search(self.keywords, comment.body.lower()) and (str(comment) not in self.comments["id"])
 
-    def scrape_subreddit(self, post_limit = 100):
+    def scrape_subreddit_posts(self, include_comment_matches = True, post_limit = 100):
         print("Scrapping posts...")
         top_posts = list(self.subreddit.top(time_filter='year', limit=post_limit))
 
@@ -93,7 +104,8 @@ class TERFBot(RedditBot.RedditBot):
 
         # Extract keyword matches at the post- and comment-level
         print("Finding keyword matches...")
-        self.posts["matches"] = self.posts.apply(lambda r: r["matches"] + list(map(self.extract_matches, r["comments"])), axis = 1)
+        if include_comment_matches:
+            self.posts["matches"] = self.posts.apply(lambda r: r["matches"] + list(map(self.extract_matches, r["comments"])), axis=1)
         self.posts["trans"] = self.posts["matches"].apply(lambda l: l != [])
 
         print("Scrapping successful...")
@@ -102,13 +114,13 @@ class TERFBot(RedditBot.RedditBot):
         for comment in self.subreddit.stream.comments():
             try:
                 if self.should_extract(comment):
-                    self.extract_features(comment)
-
-                    # extract parent comment features for context, whether they match keywords or not
-                    parent = comment.parent()
-                    while str(parent) not in self.comments["id"] and len(str(parent)) == 7:
-                        self.extract_features(parent)
-                        parent = parent.parent()
+                    # self.extract_features(comment)
+                    #
+                    # # extract parent comment features for context, whether they match keywords or not
+                    # parent = comment.parent()
+                    # while str(parent) not in self.comments["id"] and len(str(parent)) == 7:
+                    #     self.extract_features(parent)
+                    #     parent = parent.parent()
 
                     # extract post details
                     if str(comment.submission) not in self.posts["id"]:
