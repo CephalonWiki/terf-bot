@@ -105,9 +105,9 @@ class TERFBot(RedditBot.RedditBot):
     def should_extract(self, comment):
         return re.search(self.keywords, comment.body.lower()) and (str(comment) not in self.comments["id"])
 
-    def scrape_subreddit_posts(self, include_comment_matches = True, post_limit = 100):
+    def scrape_subreddit_posts(self, time_filter = "year", include_comment_matches = True, post_limit = 100):
         print("Scrapping posts...")
-        top_posts = self.subreddit.top(time_filter='year', limit=post_limit)
+        top_posts = self.subreddit.top(time_filter=time_filter, limit=post_limit)
 
         print("Extracting features...")
         print("======================")
